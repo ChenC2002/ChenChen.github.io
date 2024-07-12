@@ -12,7 +12,7 @@ title                    : "Chen Chen / Academic Hompage"
 title_separator          : "-"
 name                     : &name "Chen Chen"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://ccxaoxx.github.io/ChenChen.github.io/"
+url                      : https://ccxaoxx.github.io/ChenChen.github.io/ # the base hostname & protocol for your site e.g. "https://ccxaoxx.github.io/ChenChen.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://ccxaoxx.github.io/ChenChen.github.io/"
 
