@@ -21,7 +21,7 @@ Publications
 
 RESEARCH EXPERIENCE
 ======
-* Laboratory Research (Sep 2020 — Jun 2024)
+* Laboratory Research, Sep 2020 — Jun 2024
   * As a research assistant, I have research experience regarding Sentiment Analysis on Social Media in Graph Neural
 Networks laboratories at the Guangdong University of Technology, developing in-depth knowledge of literature searching,
 model optimizing, experimental analyzing, and paper authoring, and producing a journal paper.
@@ -30,7 +30,7 @@ patents (CN 2023101434276, etc.), and software copyrights (CCPC 2022SR0708926, e
   * This experience is supported by the Natural Science Foundation of Guangdong Province (No.2021A1515012290), Guang-
 dong Provincial Key Laboratory of Cyber-Physical Systems (No.2020B1212060069), and National & Local Joint Engi-
 neering Research Center of Intelligent Manufacturing Cyber-Physical Systems.
-* Red Bird Challenge Camp (Jun 2023 — Jul 2023)
+* Red Bird Challenge Camp, Jun 2023 — Jul 2023
   * It was a collaborative team research experience related to motion-assisted at the Hong Kong University of Science and
 Technology. I was responsible for the research and implementing the sentiment analysis part of the study, utilizing
 several modules of the large language model such as prompt learning.
@@ -48,17 +48,17 @@ social media (Excellent Bachelor Thesis Scholarship, Top 3% in School)
 
 AWARDS and FUNDING
 ======
-* Scholarship Sep (2020 — Jun 2024)
+* Scholarship Sep, 2020 — Jun 2024
   * Multiple scholarships, including National Scholarships, Excellent Student Scholarships, Innovation Scholarships, Excellent
 Bachelor Thesis Scholarship, etc.
-* Company-Sponsored Scholarship and Funding (Sep 2020 — May 2023)
+* Company-Sponsored Scholarship and Funding, Sep 2020 — May 2023
   * As a leader, I organized the team to participate in the competition of enterprises and won multiple scholarships and funding,
 including 37 Interactive Entertainment Ltd. and Guangdong Youxin Foundation, etc.
-* Coding Competition (Apr 2023)
+* Coding Competition, Apr 2023
   * Second Prize of the 14th ”LanQiao Cup” National Software and Information Technology Professionals Competition
-* Algorithm Competition (Apr 2022)
+* Algorithm Competition, Apr 2022
   * Top 5 % (35 / 803) by Individual in the Kaggle Competition ”Natural Language Processing of Disaster Tweets”
-* Volunteer Work Feb 2021
+* Volunteer Work, Feb 2021
   * Provincial Outstanding Volunteer Award for Combating COVID-19 Epidemic
 
 
@@ -70,7 +70,7 @@ PROFESSIONAL SOCIETY MEMBERSHIP
 INTERNSHIP EXPERIENCE
 ======
 * China Mobile Information Technology Co., Ltd. (FORTUNE GLOBAL 100), Guangzhou, China
-  * Intern in Artificial Intelligence and Big Data Department (Jun 2023 — Aug 2023)
+  * Intern in Artificial Intelligence and Big Data Department, Jun 2023 — Aug 2023
   * I deployed ChatGLM2 in real production and optimized prompt words to limit GPU memory usage to less than 2GB
 for a single model.
   * By constructing NL2SQL with ChatSQL, I improved retrieval accuracy to 85%+.
