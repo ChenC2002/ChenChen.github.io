@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+RESEARCH INTERESTS
+======
+* Natural Language Processing, Graph Neural Networks, Sentiment Analysis, and Social Media
+
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
