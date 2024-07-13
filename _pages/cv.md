@@ -109,9 +109,9 @@ REFERENCES
   * E-mail: fhli20180910@gdut.edu.cn
  
 * Si Li
- * Associate Professor, School of Computer Science and Technology, Guangdong University of Technology
- * Scholar Profiles: yzw.gdut.edu.cn/info/1120/1831.htm
- * E-mail: reesiloveu@163.com
+  * Associate Professor, School of Computer Science and Technology, Guangdong University of Technology
+  * Scholar Profiles: yzw.gdut.edu.cn/info/1120/1831.htm
+  * E-mail: reesiloveu@163.com
   
 * Dongning Liu
   * Professor, School of Computer Science and Technology, Guangdong University of Technology
