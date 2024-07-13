@@ -43,8 +43,7 @@ Education
 * Guangdong University of Technology, Guangzhou, China (#59 in AI Subject, U.S.News), Sep 2020 — Jun 2024
   * Bachelor of Engineering with a specialty in Artificial Intelligence
   * Cumulative GPA: 3.47/4.00 (Top 10 in Major), Last Two Years GPA: 3.86/4.00
-  * Dissertation Title: Heterogeneous subgraph network with prompt learning for interpretable depression detection on
-social media (Excellent Bachelor Thesis Scholarship, Top 3% in School)
+  * Dissertation Title: Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media (Excellent Bachelor Thesis Scholarship, Top 3% in School)
 
 AWARDS and FUNDING
 ======
