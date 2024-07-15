@@ -2,7 +2,7 @@
 title: "Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-date: 2024-10-1
+date: 2023-10-1
 venue: 'Knowledge-Based Systems'
 slidesurl: 'https://github.com/CCXaoXX/ChenChen.github.io/tree/master/files/slides1.pdf'
 paperurl: 'https://arxiv.org/pdf/2407.09019'
