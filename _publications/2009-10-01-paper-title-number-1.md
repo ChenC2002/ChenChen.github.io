@@ -1,8 +1,8 @@
 ---
 title: "Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media"
-collection: Conditionally Accepted
-permalink: https://arxiv.org/a/chen_c_12.html
-date: 2024
+collection: publications
+permalink: /publication/2009-10-01-paper-title-number-1
+date: 2023-10-01
 venue: 'Knowledge-Based Systems'
 slidesurl: 'https://github.com/CCXaoXX/ChenChen.github.io/tree/master/files/slides1.pdf'
 paperurl: 'https://github.com/CCXaoXX/ChenChen.github.io/tree/master/files/paper1.pdf'
