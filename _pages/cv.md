@@ -94,7 +94,7 @@ REFERENCES
 ======
 * Fenghuan Li
   * Lecturer, School of Computer Science and Technology, Guangdong University of Technology
-  * Scholar Profiles: www.scholat.com/lifenghuan2007
+  * Scholar Profiles: https://dblp.org/pid/07/10130.html
   * E-mail: fhli20180910@gdut.edu.cn
  
 * Si Li
