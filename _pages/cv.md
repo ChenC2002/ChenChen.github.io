@@ -22,8 +22,8 @@ Publications
 RESEARCH EXPERIENCE
 ======
 * [Graph Neural Networks Lab at the Guangdong University of Technology](https://cs.gdut.edu.cn/English/About_us.htm), Sep 2020 — Jun 2024
-  * Focused on evaluating depressive tendencies through social media analysis and sought insights into improving the interpretability of language models.
-  * The research focused on interpretability beyond superior performance. Proposed employing prompt learning to objectively map social users’ implicit psychological states in a novel way, utilized the heterogeneous graph and subgraph to capture interaction, and generate more discriminative representations via self-supervised comparative learning. 
+  * The research focused on evaluating depressive tendencies through social media analysis and sought insights into improving the interpretability of language models beyond superior performance.
+  * Proposed employing prompt learning to objectively map social users’ implicit psychological states in a novel way, utilized the heterogeneous graph and subgraph to capture interaction and generate more discriminative representations via self-supervised comparative learning. 
   * This experience produced a paper submission to Knowledge-Based Systems, as well as two invention patents (CN 2023101434276 et al.) and three software copyrights (CCPC 2022SR0708926 et al.).
 * [Red Bird Challenge Camp at the Hong Kong University of Science and Technology](https://www.hkust-gz.edu.cn/academics/teaching-and-learning-innovation/red-bird-challenge-camp/), Jun 2023 — Jul 2023
   * This was an effective teamwork experience, the team focused on implementing motion-assisted robots.  Structured graphs based on syntax and semantics, utilized a comparative learning approach to derive scores to address inefficiencies and low interpretability in voice input methods for space-constrained mobile devices in the responsible part.
@@ -35,12 +35,12 @@ Education
 * [Guangdong University of Technology](https://english.gdut.edu.cn/), (#59 in AI Subject global, U.S.News), Guangzhou, China
 * Bachelor of Engineering in Artificial Intelligence, Sep 2020 — Jun 2024
   * Cumulative GPA: 3.47/4.00 (Top 10 in Major), Last Two Years GPA: 3.86/4.00
-  * Dissertation Title: Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media (Excellent Bachelor Thesis Award, Top 3\% in School)
+  * Dissertation Title: Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media (Excellent Bachelor Thesis Award, Top 3% in School)
 
 AWARDS and FUNDING
 ======
 * Scholarship, Sep 2020 — Jun 2024
-  * National Scholarship (Top 1\% in School), Innovation Scholarship (Top 3\% in School), Excellent Student Scholarships (Top 28\% in School) et al
+  * National Scholarship (Top 1% in School), Innovation Scholarship (Top 3% in School), Excellent Student Scholarships (Top 28% in School) et al
 * Funding, Sep 2020 — Jun 2024
   * Natural Science Foundation of Guangdong Province (No.2021A1515012290), Guangdong Provincial Key Laboratory of Cyber-Physical Systems (No.2020B1212060069), and National \& Local Joint Engineering Research Center of Intelligent Manufacturing Cyber-Physical Systems
 * Company-Sponsored Scholarship, Sep 2020 — May 2023
@@ -48,7 +48,7 @@ AWARDS and FUNDING
 * Coding Competition, Apr 2023
   * Second Prize of the 14th ”LanQiao Cup” National Software and Information Technology Professionals Competition
 * Algorithm Competition, Apr 2022
-  * Top 5 % (35 / 803) by Individual in the Kaggle Competition ”Natural Language Processing of Disaster Tweets”
+  * Top 5% (35 / 803) by Individual in the Kaggle Competition ”Natural Language Processing of Disaster Tweets”
 * Volunteer Work, Feb 2021
   * Provincial Outstanding Volunteer Award for Combating COVID-19 Epidemic
 
