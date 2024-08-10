@@ -29,7 +29,6 @@ RESEARCH EXPERIENCE
   * This was an effective teamwork experience, the team focused on implementing motion-assisted robots.  Structured graphs based on syntax and semantics, utilized a comparative learning approach to derive scores to address inefficiencies and low interpretability in voice input methods for space-constrained mobile devices in the responsible part.
   * Currently writing this work for publication, and have presented research via presentations, posters, and videos for several academic groups. 
 
-
 Education
 ======
 * [Guangdong University of Technology](https://english.gdut.edu.cn/), (#59 in AI Subject global, U.S.News), Guangzhou, China
@@ -52,12 +51,6 @@ AWARDS and FUNDING
 * Volunteer Work, Feb 2021
   * Provincial Outstanding Volunteer Award for Combating COVID-19 Epidemic
 
-
-MEMBERSHIP
-======
-* Graduates Member (NO.U7669G), [China Computer Federation (CCF)](https://www.ccf.org.cn/en/), Sep 2021 — Present
-
-
 INTERNSHIP EXPERIENCE
 ======
 * [China Mobile Information Technology Co.](https://www.cmi.chinamobile.com/en), Ltd. (FORTUNE GLOBAL 100), Guangzhou, China
@@ -65,6 +58,9 @@ INTERNSHIP EXPERIENCE
 * Deployed ChatGLM2 in a live production setting, and optimized prompt words to limit the GPU memory usage of a single model to below 2GB.
 * Introduced ChatSQL to enable non-specialized database users to query and interact with databases using natural language, enhanced its applicability across diverse data analysis settings, and boosted retrieval accuracy to over 85\%.
 
+MEMBERSHIP
+======
+* Graduates Member (NO.U7669G), [China Computer Federation (CCF)](https://www.ccf.org.cn/en/), Sep 2021 — Present
 TEACHING
 ======
 * Research Assistant at the Guangdong University of Technology, Mar 2021 - Jun 2021
