@@ -48,8 +48,8 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  CSDN             : https://blog.csdn.net/m0_53382422
-  Wechat           : https://github.com/CCXaoXX/ChenChen.github.io/tree/master/images/wechat.jpg
+  CSDN             : "https://blog.csdn.net/m0_53382422"
+  Wechat           : "https://github.com/CCXaoXX/ChenChen.github.io/tree/master/images/wechat.jpg"
   bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
