@@ -13,4 +13,4 @@ I am very fortunate to be advised by Fenghuan Li of  Graph Neural Networks Lab f
 
 You can find my CV here: [Chen Chen's Curriculum Vitae](https://github.com/CCXaoXX/ChenChen.github.io/tree/master/assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:cc13895479019@gmail.com) / [Github](https://ccxaoxx.github.io/ChenChen.github.io/) / [Wechat](https://github.com/CCXaoXX/ChenChen.github.io/tree/master/images/wechat.jpg) / [CSDN](https://blog.csdn.net/m0_53382422)
+[Email](mailto:cc13895479019@gmail.com)  / [Wechat](https://github.com/CCXaoXX/ChenChen.github.io/tree/master/images/wechat.jpg) / [CSDN](https://blog.csdn.net/m0_53382422)
