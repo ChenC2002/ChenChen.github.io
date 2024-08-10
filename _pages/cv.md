@@ -34,8 +34,8 @@ Education
 ======
 * [Guangdong University of Technology](https://english.gdut.edu.cn/), (#59 in AI Subject global, U.S.News), Guangzhou, China
 * Bachelor of Engineering in Artificial Intelligence, Sep 2020 — Jun 2024
-  * Cumulative GPA: 3.47/4.00 (Top 10 in Major), Last Two Years GPA: 3.86/4.00
-  * Dissertation Title: Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media (Excellent Bachelor Thesis Award, Top 3% in School)
+* Cumulative GPA: 3.47/4.00 (Top 10 in Major), Last Two Years GPA: 3.86/4.00
+* Dissertation Title: Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media (Excellent Bachelor Thesis Award, Top 3% in School)
 
 AWARDS and FUNDING
 ======
@@ -62,13 +62,13 @@ INTERNSHIP EXPERIENCE
 ======
 * [China Mobile Information Technology Co.](https://www.cmi.chinamobile.com/en), Ltd. (FORTUNE GLOBAL 100), Guangzhou, China
 * Intern in Artificial Intelligence and Big Data Department, Jun 2023 — Aug 2023
-  * Deployed ChatGLM2 in a live production setting, and optimized prompt words to limit the GPU memory usage of a single model to below 2GB.
-  * Introduced ChatSQL to enable non-specialized database users to query and interact with databases using natural language, enhanced its applicability across diverse data analysis settings, and boosted retrieval accuracy to over 85\%.
+* Deployed ChatGLM2 in a live production setting, and optimized prompt words to limit the GPU memory usage of a single model to below 2GB.
+* Introduced ChatSQL to enable non-specialized database users to query and interact with databases using natural language, enhanced its applicability across diverse data analysis settings, and boosted retrieval accuracy to over 85\%.
 
 TEACHING
 ======
 * Research Assistant at the Guangdong University of Technology, Mar 2021 - Jun 2021
-  * Instructed a class about people weekly, covering basic Python programming and an introduction to NLP.
+* Instructed a class about people weekly, covering basic Python programming and an introduction to NLP.
   
 SELECTED COURSES
 ======
