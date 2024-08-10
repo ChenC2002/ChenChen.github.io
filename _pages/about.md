@@ -14,4 +14,4 @@ I am very fortunate to be advised by Fenghuan Li of the Graph Neural Networks La
 You can find my [CV](https://github.com/CCXaoXX/ChenChen.github.io/tree/master/assets/CV-CHEN Chen.pdf) and [SOP](https://github.com/CCXaoXX/ChenChen.github.io/tree/master/assets/SOP-CHEN Chen.pdf) here.
 
 
-[CSDN](https://blog.csdn.net/m0_53382422) | [Wechat](https://github.com/CCXaoXX/ChenChen.github.io/tree/master/images/wechat.jpg)
+[CSDN](https://blog.csdn.net/m0_53382422) / [Wechat](https://github.com/CCXaoXX/ChenChen.github.io/tree/master/images/wechat.jpg)
