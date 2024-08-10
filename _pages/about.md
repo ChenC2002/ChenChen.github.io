@@ -12,3 +12,6 @@ I'm a graduated student from [School of Computer Science and Technology](https:/
 I am very fortunate to be advised by Fenghuan Li of the Graph Neural Networks Lab from [School of Computer Science and Technology](https://cs.gdut.edu.cn/English/About_us.htm), Guangdong University of Technology. I was advised by Si Li and [Prof. liu dongning](https://www.scholat.com/liudn.en) from [School of Computer Science and Technology](https://cs.gdut.edu.cn/English/About_us.htm), Guangdong University of Technology.
 
 You can find my [CV](https://github.com/CCXaoXX/ChenChen.github.io/tree/master/assets/CV-CHEN Chen.pdf) and [SOP](https://github.com/CCXaoXX/ChenChen.github.io/tree/master/assets/SOP-CHEN Chen.pdf) here.
+
+
+[CSDN](https://blog.csdn.net/m0_53382422) | [Wechat](https://github.com/CCXaoXX/ChenChen.github.io/tree/master/images/wechat.jpg)
