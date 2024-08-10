@@ -11,7 +11,7 @@ redirect_from:
 
 RESEARCH INTERESTS
 ======
-* Natural Language Processing, Graph Neural Networks, Sentiment Analysis, and Social Media
+* Natural Language Processing, Graph Neural Networks, Sentiment Analysis, Social Media
 
 Publications
 ======
@@ -21,29 +21,30 @@ Publications
 
 RESEARCH EXPERIENCE
 ======
-* [Laboratory Research](https://cs.gdut.edu.cn/English/About_us.htm), Sep 2020 — Jun 2024
-  * As a research assistant, I have research experience regarding Sentiment Analysis on Social Media in Graph Neural Networks laboratories at the Guangdong University of Technology, developing in-depth knowledge of literature searching, model optimizing, experimental analyzing, and paper authoring, and producing a journal paper.
-  * I’ve written many types of academic research writing, including journal and conference papers, research reports, invention patents (CN 2023101434276, etc.), and software copyrights (CCPC 2022SR0708926, etc.).
-  * This experience is supported by the Natural Science Foundation of Guangdong Province (No.2021A1515012290), Guangdong Provincial Key Laboratory of Cyber-Physical Systems (No.2020B1212060069), and National & Local Joint Engineering Research Center of Intelligent Manufacturing Cyber-Physical Systems.
-* [Red Bird Challenge Camp](https://www.hkust-gz.edu.cn/academics/teaching-and-learning-innovation/red-bird-challenge-camp/), Jun 2023 — Jul 2023
-  * It was a collaborative team research experience related to motion-assisted at the Hong Kong University of Science and Technology. I was responsible for the research and implementing the sentiment analysis part of the study, utilizing several modules of the large language model such as prompt learning.
-  * I’ve presented research via a variety of techniques, including presentations, posters, and videos to several academic groups.
+* [Graph Neural Networks Lab at the Guangdong University of Technology](https://cs.gdut.edu.cn/English/About_us.htm), Sep 2020 — Jun 2024
+  * Focused on evaluating depressive tendencies through social media analysis and sought insights into improving the interpretability of language models.
+  * The research focused on interpretability beyond superior performance. Proposed employing prompt learning to objectively map social users’ implicit psychological states in a novel way, utilized the heterogeneous graph and subgraph to capture interaction, and generate more discriminative representations via self-supervised comparative learning. 
+  * This experience produced a paper submission to Knowledge-Based Systems, as well as two invention patents (CN 2023101434276 et al.) and three software copyrights (CCPC 2022SR0708926 et al.).
+* [Red Bird Challenge Camp at the Hong Kong University of Science and Technology](https://www.hkust-gz.edu.cn/academics/teaching-and-learning-innovation/red-bird-challenge-camp/), Jun 2023 — Jul 2023
+  * This was an effective teamwork experience, the team focused on implementing motion-assisted robots.  Structured graphs based on syntax and semantics, utilized a comparative learning approach to derive scores to address inefficiencies and low interpretability in voice input methods for space-constrained mobile devices in the responsible part.
+  * Currently writing this work for publication, and have presented research via presentations, posters, and videos for several academic groups. 
 
 
 Education
 ======
-* [Guangdong University of Technology](https://english.gdut.edu.cn/), Guangzhou, China (#59 in AI Subject, U.S.News), Sep 2020 — Jun 2024
-  * Bachelor of Engineering with a specialty in Artificial Intelligence
+* [Guangdong University of Technology](https://english.gdut.edu.cn/), (#59 in AI Subject global, U.S.News), Guangzhou, China
+* Bachelor of Engineering in Artificial Intelligence, Sep 2020 — Jun 2024
   * Cumulative GPA: 3.47/4.00 (Top 10 in Major), Last Two Years GPA: 3.86/4.00
-  * Dissertation Title: Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media (Excellent Bachelor Thesis Scholarship, Top 3% in School)
+  * Dissertation Title: Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media (Excellent Bachelor Thesis Award, Top 3\% in School)
 
 AWARDS and FUNDING
 ======
-* Scholarship Sep, 2020 — Jun 2024
-  * Multiple scholarships, including National Scholarships, Excellent Student Scholarships, Innovation Scholarships, Excellent
-Bachelor Thesis Scholarship, etc.
-* Company-Sponsored Scholarship and Funding, Sep 2020 — May 2023
-  * As a leader, I organized the team to participate in the competition of enterprises and won multiple scholarships and funding, including 37 Interactive Entertainment Ltd. and Guangdong Youxin Foundation, etc.
+* Scholarship, Sep 2020 — Jun 2024
+  * National Scholarship (Top 1\% in School), Innovation Scholarship (Top 3\% in School), Excellent Student Scholarships (Top 28\% in School) et al
+* Funding, Sep 2020 — Jun 2024
+  * Natural Science Foundation of Guangdong Province (No.2021A1515012290), Guangdong Provincial Key Laboratory of Cyber-Physical Systems (No.2020B1212060069), and National \& Local Joint Engineering Research Center of Intelligent Manufacturing Cyber-Physical Systems
+* Company-Sponsored Scholarship, Sep 2020 — May 2023
+  * 37 Interactive Entertainment Ltd. and Guangdong Youxin Foundation et al
 * Coding Competition, Apr 2023
   * Second Prize of the 14th ”LanQiao Cup” National Software and Information Technology Professionals Competition
 * Algorithm Competition, Apr 2022
@@ -52,28 +53,26 @@ Bachelor Thesis Scholarship, etc.
   * Provincial Outstanding Volunteer Award for Combating COVID-19 Epidemic
 
 
-PROFESSIONAL SOCIETY MEMBERSHIP
+MEMBERSHIP
 ======
-* Graduates Member (NO.U7669G), [China Computer Federation](https://www.ccf.org.cn/en/), Sep 2021 — Present
+* Graduates Member (NO.U7669G), [China Computer Federation (CCF)](https://www.ccf.org.cn/en/), Sep 2021 — Present
 
 
 INTERNSHIP EXPERIENCE
 ======
 * [China Mobile Information Technology Co.](https://www.cmi.chinamobile.com/en), Ltd. (FORTUNE GLOBAL 100), Guangzhou, China
-  * Intern in Artificial Intelligence and Big Data Department, Jun 2023 — Aug 2023
-  * I deployed ChatGLM2 in real production and optimized prompt words to limit GPU memory usage to less than 2GB for a single model.
-  * By constructing NL2SQL with ChatSQL, I improved retrieval accuracy to 85%+.
+* Intern in Artificial Intelligence and Big Data Department, Jun 2023 — Aug 2023
+  * Deployed ChatGLM2 in a live production setting, and optimized prompt words to limit the GPU memory usage of a single model to below 2GB.
+  * Introduced ChatSQL to enable non-specialized database users to query and interact with databases using natural language, enhanced its applicability across diverse data analysis settings, and boosted retrieval accuracy to over 85\%.
 
-
-LANGUAGE and SKILLS
+TEACHING
 ======
-* Language: IELTS(Academic) - 7.0 (Overall Score)
-* Coding: Python, C Programming Language, JavaScript, HTML, CSS
-* Computer: Linux Shell, Matlab, Latex
+* Research Assistant at the Guangdong University of Technology, Mar 2021 - Jun 2021
+  * Instructed a class about people weekly, covering basic Python programming and an introduction to NLP.
   
 SELECTED COURSES
 ======
-* Major Courses
+* Major Courses (/4.0)
   * Advanced Machine Learning - 3.8
   * Natural Language Processing - 4.0
   * Text Information Processing - 3.6
@@ -81,7 +80,7 @@ SELECTED COURSES
   * Computer Vision - 4.0
   * Data Mining - 3.9
   * Knowledge Engineering and Knowledge Graph - 3.5
-* Mathematics Courses
+* Mathematics Courses (/4.0)
   * Numerical Analysis - 3.7
   * Optimization Method - 4.0
   * Discrete Mathematics - 3.9
@@ -89,6 +88,12 @@ SELECTED COURSES
   * Linear Algebra - 3.7
   * Digital Signal Processing - 4.0
   * Theory of Probability and Mathematical Statistics - 4.0  
+
+LANGUAGE and SKILLS
+======
+* Language: IELTS(Academic) - 7.0 (Overall Score)
+* Coding: Python, C, JavaScript, HTML/CSS
+* Computer: Linux Shell, Matlab, Latex
 
 REFERENCES
 ======
