@@ -22,12 +22,12 @@ Publications
 RESEARCH EXPERIENCE
 ======
 * [Graph Neural Networks Lab at the Guangdong University of Technology](https://cs.gdut.edu.cn/English/About_us.htm), Sep 2020 — Jun 2024
-  * The research focused on evaluating depressive tendencies through social media analysis and sought insights into improving the interpretability of language models beyond superior performance.
-  * Proposed employing prompt learning to objectively map social users’ implicit psychological states in a novel way, utilized the heterogeneous graph and subgraph to capture interaction and generate more discriminative representations via self-supervised comparative learning. 
-  * This experience produced a paper submission to Knowledge-Based Systems, as well as two invention patents (CN 2023101434276 et al.) and three software copyrights (CCPC 2022SR0708926 et al.).
+  * The research focused on evaluating depressive tendencies through social media analysis and sought insights into improving the interpretability of language models beyond superior performance
+  * Proposed employing prompt learning to objectively map social users’ implicit psychological states in a novel way and utilized the heterogeneous graph and subgraph to capture interaction and generate more discriminative representations via self-supervised comparative learning
+  * This experience produced a paper submission to Knowledge-Based Systems, published two invention patents (CN 2023101434276 et al.), and three software copyrights (CCPC 2022SR0708926 et al.)
 * [Red Bird Challenge Camp at the Hong Kong University of Science and Technology](https://www.hkust-gz.edu.cn/academics/teaching-and-learning-innovation/red-bird-challenge-camp/), Jun 2023 — Jul 2023
-  * This was an effective teamwork experience, the team focused on implementing motion-assisted robots.  Structured graphs based on syntax and semantics, utilized a comparative learning approach to derive scores to address inefficiencies and low interpretability in voice input methods for space-constrained mobile devices in the responsible part.
-  * Currently writing this work for publication, and have presented research via presentations, posters, and videos for several academic groups. 
+  * This was an effective teamwork experience. The team focused on implementing motion-assisted robots. In the responsible part, structured graphs based on syntax and semantics utilized a comparative learning approach to derive scores to address inefficiencies and low interpretability in voice input methods for space-constrained mobile devices
+  * Currently writing this work for publication and have presented research via presentations, posters, and videos for several academic groups
 
 Education
 ======
@@ -39,11 +39,11 @@ Education
 AWARDS and FUNDING
 ======
 * Scholarship, Sep 2020 — Jun 2024
-  * National Scholarship (Top 1% in School), Innovation Scholarship (Top 3% in School), Excellent Student Scholarships (Top 28% in School) et al
+  * National Scholarship (Top 1% in School), Innovation Scholarship (Top 3% in School), Excellent Student Scholarships (Top 28% in School) et al.
 * Funding, Sep 2020 — Jun 2024
   * Natural Science Foundation of Guangdong Province (No.2021A1515012290), Guangdong Provincial Key Laboratory of Cyber-Physical Systems (No.2020B1212060069), and National \& Local Joint Engineering Research Center of Intelligent Manufacturing Cyber-Physical Systems
 * Company-Sponsored Scholarship, Sep 2020 — May 2023
-  * 37 Interactive Entertainment Ltd. and Guangdong Youxin Foundation et al
+  * 37 Interactive Entertainment Ltd. and Guangdong Youxin Foundation et al.
 * Coding Competition, Apr 2023
   * Second Prize of the 14th ”LanQiao Cup” National Software and Information Technology Professionals Competition
 * Algorithm Competition, Apr 2022
@@ -55,8 +55,8 @@ INTERNSHIP EXPERIENCE
 ======
 * [China Mobile Information Technology Co.](https://www.cmi.chinamobile.com/en), Ltd. (FORTUNE GLOBAL 100), Guangzhou, China
 * Intern in Artificial Intelligence and Big Data Department, Jun 2023 — Aug 2023
-* Deployed ChatGLM2 in a live production setting, and optimized prompt words to limit the GPU memory usage of a single model to below 2GB.
-* Introduced ChatSQL to enable non-specialized database users to query and interact with databases using natural language, enhanced its applicability across diverse data analysis settings, and boosted retrieval accuracy to over 85\%.
+* Deployed ChatGLM2 in a live production setting and optimized prompt words to limit the GPU memory usage of a single model to below 2GB
+* Introduced ChatSQL to enable non-specialized database users to query and interact with databases using natural language, enhanced its applicability across diverse data analysis settings, and boosted retrieval accuracy to over 85\%
 
 MEMBERSHIP
 ======
@@ -64,7 +64,7 @@ MEMBERSHIP
 TEACHING
 ======
 * Research Assistant at the Guangdong University of Technology, Mar 2021 - Jun 2021
-* Instructed a class of about twenty people weekly, covering basic Python programming and an introduction to NLP. 
+* Instructed a class of about twenty people weekly, covering basic Python programming and an introduction to NLP 
   
 SELECTED COURSES
 ======
