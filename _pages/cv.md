@@ -33,7 +33,7 @@ Education
 ======
 [Guangdong University of Technology](https://english.gdut.edu.cn/), (#59 in AI Subject global, U.S.News), Guangzhou, China
 * Bachelor of Engineering in Artificial Intelligence, Sep 2020 — Jun 2024
-* Cumulative GPA: 3.47/4.00 (Top 10 in Major), Last Two Years GPA: 3.86/4.00
+* Cumulative GPA: 3.47/4.00 (13/810), Last Two Years GPA: 3.86/4.00
 * Dissertation Title: Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media (Excellent Bachelor Thesis Award, Top 3% in School)
 
 AWARDS and FUNDING
@@ -47,7 +47,7 @@ Company-Sponsored Scholarship, Sep 2020 — May 2023
 Coding Competition, Apr 2023
 * Second Prize of the 14th ”LanQiao Cup” National Software and Information Technology Professionals Competition
 Algorithm Competition, Apr 2022
-* Top 5% (35 / 803) by Individual in the Kaggle Competition ”Natural Language Processing of Disaster Tweets”
+* Top 5% (35/803) by Individual in the Kaggle Competition ”Natural Language Processing of Disaster Tweets”
 Volunteer Work, Feb 2021
 * Provincial Outstanding Volunteer Award for Combating COVID-19 Epidemic
 
