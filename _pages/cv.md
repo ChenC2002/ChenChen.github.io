@@ -11,7 +11,7 @@ redirect_from:
 
 RESEARCH INTERESTS
 ======
-* Natural Language Processing, Graph Neural Networks, Sentiment Analysis, Social Media
+Natural Language Processing, Graph Neural Networks, Sentiment Analysis, Social Media
 
 Publications
 ======
@@ -31,39 +31,40 @@ RESEARCH EXPERIENCE
 
 Education
 ======
-* [Guangdong University of Technology](https://english.gdut.edu.cn/), (#59 in AI Subject global, U.S.News), Guangzhou, China
+[Guangdong University of Technology](https://english.gdut.edu.cn/), (#59 in AI Subject global, U.S.News), Guangzhou, China
 * Bachelor of Engineering in Artificial Intelligence, Sep 2020 — Jun 2024
 * Cumulative GPA: 3.47/4.00 (Top 10 in Major), Last Two Years GPA: 3.86/4.00
 * Dissertation Title: Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media (Excellent Bachelor Thesis Award, Top 3% in School)
 
 AWARDS and FUNDING
 ======
-* Scholarship, Sep 2020 — Jun 2024
-  * National Scholarship (Top 1% in School), Innovation Scholarship (Top 3% in School), Excellent Student Scholarships (Top 28% in School) et al.
-* Funding, Sep 2020 — Jun 2024
-  * Natural Science Foundation of Guangdong Province (No.2021A1515012290), Guangdong Provincial Key Laboratory of Cyber-Physical Systems (No.2020B1212060069), and National \& Local Joint Engineering Research Center of Intelligent Manufacturing Cyber-Physical Systems
-* Company-Sponsored Scholarship, Sep 2020 — May 2023
-  * 37 Interactive Entertainment Ltd. and Guangdong Youxin Foundation et al.
-* Coding Competition, Apr 2023
-  * Second Prize of the 14th ”LanQiao Cup” National Software and Information Technology Professionals Competition
-* Algorithm Competition, Apr 2022
-  * Top 5% (35 / 803) by Individual in the Kaggle Competition ”Natural Language Processing of Disaster Tweets”
-* Volunteer Work, Feb 2021
-  * Provincial Outstanding Volunteer Award for Combating COVID-19 Epidemic
+Scholarship, Sep 2020 — Jun 2024
+* National Scholarship (Top 1% in School), Innovation Scholarship (Top 3% in School), Excellent Student Scholarships (Top 28% in School) et al.
+Funding, Sep 2020 — Jun 2024
+* Natural Science Foundation of Guangdong Province (No.2021A1515012290), Guangdong Provincial Key Laboratory of Cyber-Physical Systems (No.2020B1212060069), and National \& Local Joint Engineering Research Center of Intelligent Manufacturing Cyber-Physical Systems
+Company-Sponsored Scholarship, Sep 2020 — May 2023
+* 37 Interactive Entertainment Ltd. and Guangdong Youxin Foundation et al.
+Coding Competition, Apr 2023
+* Second Prize of the 14th ”LanQiao Cup” National Software and Information Technology Professionals Competition
+Algorithm Competition, Apr 2022
+* Top 5% (35 / 803) by Individual in the Kaggle Competition ”Natural Language Processing of Disaster Tweets”
+Volunteer Work, Feb 2021
+* Provincial Outstanding Volunteer Award for Combating COVID-19 Epidemic
 
 INTERNSHIP EXPERIENCE
 ======
-* [China Mobile Information Technology Co.](https://www.cmi.chinamobile.com/en), Ltd. (FORTUNE GLOBAL 100), Guangzhou, China
-* Intern in Artificial Intelligence and Big Data Department, Jun 2023 — Aug 2023
+[China Mobile Information Technology Co.](https://www.cmi.chinamobile.com/en), Ltd. (FORTUNE GLOBAL 100), Guangzhou, China
+Intern in Artificial Intelligence and Big Data Department, Jun 2023 — Aug 2023
 * Deployed ChatGLM2 in a live production setting and optimized prompt words to limit the GPU memory usage of a single model to below 2GB
 * Introduced ChatSQL to enable non-specialized database users to query and interact with databases using natural language, enhanced its applicability across diverse data analysis settings, and boosted retrieval accuracy to over 85\%
 
 MEMBERSHIP
 ======
-* Graduates Member (NO.U7669G), [China Computer Federation (CCF)](https://www.ccf.org.cn/en/), Sep 2021 — Present
+Graduates Member (NO.U7669G), [China Computer Federation (CCF)](https://www.ccf.org.cn/en/), Sep 2021 — Present
+  
 TEACHING
 ======
-* Research Assistant at the Guangdong University of Technology, Mar 2021 - Jun 2021
+Research Assistant at the Guangdong University of Technology, Mar 2021 - Jun 2021
 * Instructed a class of about twenty people weekly, covering basic Python programming and an introduction to NLP 
   
 SELECTED COURSES
