@@ -22,7 +22,7 @@ RESEARCH EXPERIENCE
 ======
 * [Graph Neural Networks Lab at the Guangdong University of Technology](https://cs.gdut.edu.cn/English/About_us.htm), Sep 2020 — Jun 2024
   * The research focused on evaluating depressive tendencies through social media analysis and sought insights into improving the interpretability of language models beyond superior performance
-  * Proposed employing prompt learning to objectively map social users’ implicit psychological states in a novel way and utilized the heterogeneous graph and subgraph to capture interaction and generate more discriminative representations via self-supervised comparative learning
+  * An interpretable depression detection method on social media was developed, and the heterogeneity of social data and the interactivity of social users were learned
   * This experience produced a paper submission to Knowledge-Based Systems, published two invention patents (CN 2023101434276 et al.), and three software copyrights (CCPC 2022SR0708926 et al.)
 * [Red Bird Challenge Camp at the Hong Kong University of Science and Technology](https://www.hkust-gz.edu.cn/academics/teaching-and-learning-innovation/red-bird-challenge-camp/), Jun 2023 — Jul 2023
   * This was an effective teamwork experience. The team focused on implementing motion-assisted robots. In the responsible part, structured graphs based on syntax and semantics utilized a comparative learning approach to derive scores to address inefficiencies and low interpretability in voice input methods for space-constrained mobile devices
