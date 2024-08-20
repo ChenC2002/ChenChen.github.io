@@ -44,7 +44,7 @@ AWARDS and FUNDING
 * Company-Sponsored Scholarship, Sep 2020 — May 2023
   * 37 Interactive Entertainment Ltd. and Guangdong Youxin Foundation et al.
 * Coding Competition, Apr 2023
-  * Second Prize of the 14th ”LanQiao Cup” National Software and Information Technology Professionals Competition
+  * Second Prize of the 14th ”LanQiao Cup” National Software and IT Professionals Competition
 * Algorithm Competition, Apr 2022
   * Top 5% (35/803) by Individual in the Kaggle Competition ”Natural Language Processing of Disaster Tweets”
 * Volunteer Work, Feb 2021
