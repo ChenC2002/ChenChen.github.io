@@ -21,7 +21,7 @@ Publications
 RESEARCH EXPERIENCE
 ======
 * [Graph Neural Networks Lab at the Guangdong University of Technology](https://cs.gdut.edu.cn/English/About_us.htm), Sep 2020 — Jun 2024
-  * The research focused on evaluating depressive tendencies through social media analysis and sought insights into improving the interpretability of language models beyond superior performance
+  * The research focused on evaluating depressive tendencies through social media analysis and seeking insights into improving the interpretability of language models beyond superior performance
   * An interpretable depression detection method on social media was developed, and the heterogeneity of social data and the interactivity of social users were learned
   * This experience produced a paper submission to Knowledge-Based Systems, published two invention patents (CN 2023101434276 et al.), and three software copyrights (CCPC 2022SR0708926 et al.)
 * [Red Bird Challenge Camp at the Hong Kong University of Science and Technology](https://www.hkust-gz.edu.cn/academics/teaching-and-learning-innovation/red-bird-challenge-camp/), Jun 2023 — Jul 2023
