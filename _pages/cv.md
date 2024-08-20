@@ -50,6 +50,11 @@ AWARDS and FUNDING
 * Volunteer Work, Feb 2021
   * Provincial Outstanding Volunteer Award for Combating COVID-19 Epidemic
 
+TEACHING
+======
+Research Assistant at the Guangdong University of Technology, Mar 2021 - Jun 2021
+* Instructed a class of about twenty people weekly, covering basic Python programming and an introduction to NLP 
+
 INTERNSHIP EXPERIENCE
 ======
 [China Mobile Information Technology Co.](https://www.cmi.chinamobile.com/en), Ltd. (FORTUNE GLOBAL 100), Guangzhou, China
@@ -60,11 +65,6 @@ INTERNSHIP EXPERIENCE
 MEMBERSHIP
 ======
 Graduates Member (NO.U7669G), [China Computer Federation (CCF)](https://www.ccf.org.cn/en/), Sep 2021 — Present
-  
-TEACHING
-======
-Research Assistant at the Guangdong University of Technology, Mar 2021 - Jun 2021
-* Instructed a class of about twenty people weekly, covering basic Python programming and an introduction to NLP 
   
 SELECTED COURSES
 ======
