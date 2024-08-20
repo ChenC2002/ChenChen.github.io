@@ -40,7 +40,7 @@ AWARDS and FUNDING
 * Scholarship, Sep 2020 — Jun 2024
   * National Scholarship (Top 1% in School), Innovation Scholarship (Top 3% in School), Excellent Student Scholarships (Top 28% in School) et al.
 * Funding, Sep 2020 — Jun 2024
-  * Natural Science Foundation of Guangdong Province (No.2021A1515012290), Guangdong Provincial Key Laboratory of Cyber-Physical Systems (No.2020B1212060069), and National \& Local Joint Engineering Research Center of Intelligent Manufacturing Cyber-Physical Systems
+  * Natural Science Foundation of Guangdong Province (No.2021A1515012290), Guangdong Provincial Key Laboratory of Cyber-Physical Systems (No.2020B1212060069), and National & Local Joint Engineering Research Center of Intelligent Manufacturing Cyber-Physical Systems
 * Company-Sponsored Scholarship, Sep 2020 — May 2023
   * 37 Interactive Entertainment Ltd. and Guangdong Youxin Foundation et al.
 * Coding Competition, Apr 2023
