@@ -60,7 +60,7 @@ INTERNSHIP EXPERIENCE
 [China Mobile Information Technology Co.](https://www.cmi.chinamobile.com/en), Ltd. (FORTUNE GLOBAL 100), Guangzhou, China
 * Intern in Artificial Intelligence and Big Data Department, Jun 2023 — Aug 2023
 * Deployed ChatGLM2 in a live production setting and optimized prompt words to limit the GPU memory usage of a single model to below 2GB
-* Introduced ChatSQL to enable non-specialized database users to query and interact with databases using natural language, enhanced its applicability across diverse data analysis settings, and boosted retrieval accuracy to over 85\%
+* Introduced ChatSQL to enable non-specialized database users to query and interact with databases using natural language, enhanced its applicability across diverse data analysis settings, and boosted retrieval accuracy to over 85%
 
 MEMBERSHIP
 ======
