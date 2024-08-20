@@ -26,7 +26,7 @@ RESEARCH EXPERIENCE
   * This experience produced a paper submission to Knowledge-Based Systems, published two invention patents (CN 2023101434276 et al.), and three software copyrights (CCPC 2022SR0708926 et al.)
 * [Red Bird Challenge Camp at the Hong Kong University of Science and Technology](https://www.hkust-gz.edu.cn/academics/teaching-and-learning-innovation/red-bird-challenge-camp/), Jun 2023 — Jul 2023
   * This research focused on applying motion-assisted robots, currently writing this work for publication and have presented research via presentations, posters, and videos for several academic groups
-  * In the responsible part, constructed enhanced semantic and syntactic graphs for syntactic and semantic information learning, and evaluated the weights of syntax and semantics in an unsupervised-learning manner to address inefficiencies and low interpretability in voice input methods for space-constrained mobile devices
+  * Constructed enhanced semantic and syntactic graphs for syntactic and semantic information learning, and evaluated the weights of syntax and semantics in an unsupervised-learning manner to address inefficiencies and low interpretability in voice input methods for space-constrained mobile devices
 
 Education
 ======
