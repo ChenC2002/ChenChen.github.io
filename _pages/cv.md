@@ -25,8 +25,8 @@ RESEARCH EXPERIENCE
   * An interpretable depression detection method on social media was developed, and the heterogeneity of social data and the interactivity of social users were learned
   * This experience produced a paper submission to Knowledge-Based Systems, published two invention patents (CN 2023101434276 et al.), and three software copyrights (CCPC 2022SR0708926 et al.)
 * [Red Bird Challenge Camp at the Hong Kong University of Science and Technology](https://www.hkust-gz.edu.cn/academics/teaching-and-learning-innovation/red-bird-challenge-camp/), Jun 2023 — Jul 2023
-  * This was an effective teamwork experience. The team focused on implementing motion-assisted robots. In the responsible part, structured graphs based on syntax and semantics utilized a comparative learning approach to derive scores to address inefficiencies and low interpretability in voice input methods for space-constrained mobile devices
-  * Currently writing this work for publication and have presented research via presentations, posters, and videos for several academic groups
+  * This research focused on applying motion-assisted robots, currently writing this work for publication and have presented research via presentations, posters, and videos for several academic groups
+  * In the responsible part, constructed enhanced semantic and syntactic graphs for syntactic and semantic information learning, and evaluated the weights of syntax and semantics in an unsupervised-learning manner to address inefficiencies and low interpretability in voice input methods for space-constrained mobile devices
 
 Education
 ======
