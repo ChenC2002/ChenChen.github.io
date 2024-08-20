@@ -53,7 +53,7 @@ AWARDS and FUNDING
 TEACHING
 ======
 Research Assistant at the Guangdong University of Technology, Mar 2021 - Jun 2021
-* Instructed a class of about twenty people weekly, covering basic Python programming and an introduction to NLP 
+* Instructed a class weekly (~20 students), covering basic Python programming and an introduction to NLP
 
 INTERNSHIP EXPERIENCE
 ======
