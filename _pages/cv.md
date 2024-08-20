@@ -69,21 +69,10 @@ Graduates Member (NO.U7669G), [China Computer Federation (CCF)](https://www.ccf.
 SELECTED COURSES
 ======
 * Major Courses (/4.0)
-  * Advanced Machine Learning - 3.8
-  * Natural Language Processing - 4.0
-  * Text Information Processing - 3.6
-  * Recognition of Patterns - 3.9
-  * Computer Vision - 4.0
-  * Data Mining - 3.9
-  * Knowledge Engineering and Knowledge Graph - 3.5
+  * NLP-4.0, CV-4.0, Data Mining-3.9, Recognition of Patterns-3.9, Advanced Machine Learning-3.8
+
 * Mathematics Courses (/4.0)
-  * Numerical Analysis - 3.7
-  * Optimization Method - 4.0
-  * Discrete Mathematics - 3.9
-  * Advanced Mathematics - 3.5
-  * Linear Algebra - 3.7
-  * Digital Signal Processing - 4.0
-  * Theory of Probability and Mathematical Statistics - 4.0  
+  * Optimization Method-4.0, Theory of Probability and Mathematical Statistics-4.0, Digital Signal Processing-4.0, Discrete Mathematics-3.9, Linear Algebra - 3.7
 
 LANGUAGE and SKILLS
 ======
