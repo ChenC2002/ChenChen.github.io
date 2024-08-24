@@ -32,7 +32,7 @@ Education
 ======
 [Guangdong University of Technology](https://english.gdut.edu.cn/) (#59 in AI Subject global, U.S.News), Guangzhou, China
 * Bachelor of Engineering in Artificial Intelligence, Sep 2020 — Jun 2024
-* Cumulative GPA: 3.47/4.00 (13/810), Last Two Years GPA: 3.86/4.00
+* Cumulative GPA: 3.47/4.00, Last Two Years GPA: 3.86/4.00 (13^{th}/810)
 * Dissertation Title: Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media (Excellent Bachelor Thesis Award, 5/153)
 
 AWARDS and FUNDING
