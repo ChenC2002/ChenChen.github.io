@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a graduate from [School of Computer Science and Technology](https://cs.gdut.edu.cn/English/About_us.htm), [Guangdong University of Technology](https://english.gdut.edu.cn/), where I am fortunate to be advised by Dr. Fenghuan Li from the Graph Neural Networks Lab. 
+I'm a graduate from [School of Computer Science and Technology](https://cs.gdut.edu.cn/English/About_us.htm), [Guangdong University of Technology](https://english.gdut.edu.cn/), where I'm fortunate to be advised by Dr. Fenghuan Li from the Graph Neural Networks Lab. 
 
 My research interests include Social Media Mining, Sentiment Analysis, Text Mining, Natural Language Processing and Graph Neural Networks.
 
