@@ -10,7 +10,7 @@ redirect_from:
 
 RESEARCH INTERESTS
 ======
-Natural Language Processing, Graph Neural Networks, Sentiment Analysis, Social Media
+Social Media Mining, Sentiment Analysis, Text Mining, Natural Language Processing and Graph Neural Networks
 
 Publications
 ======
