@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a graduated student from [School of Computer Science and Technology](https://cs.gdut.edu.cn/English/About_us.htm), [Guangdong University of Technology](https://english.gdut.edu.cn/). My research interests include Natural Language Processing, Graph Neural Networks, Sentiment Analysis, and Social Media.
+I'm a graduate from [School of Computer Science and Technology](https://cs.gdut.edu.cn/English/About_us.htm), [Guangdong University of Technology](https://english.gdut.edu.cn/), where I am fortunate to be advised by Dr. Fenghuan Li at the Graph Neural Networks Lab. My research interests include Social Media Mining, Sentiment Analysis, Text Mining, Natural Language Processing and Graph Neural Networks.
 
-I am very fortunate to be advised by Fenghuan Li of the Graph Neural Networks Lab from [School of Computer Science and Technology](https://cs.gdut.edu.cn/English/About_us.htm), Guangdong University of Technology. I was advised by Si Li and [Prof. liu dongning](https://www.scholat.com/liudn.en) from [School of Computer Science and Technology](https://cs.gdut.edu.cn/English/About_us.htm), Guangdong University of Technology.
+I believe language forms the bedrock of communication among individuals and with the world, bridging the gap between machines, individuals, and the broader world. Delving into the essence of language, the precise connotations of words across diverse contexts, and the interpretability within each language model will offer valuable insights for language models to tackle complex tasks effectively. I am unwaveringly committed to achieving this goal.
 
 You can find my [CV](https://github.com/CCXaoXX/ChenChen.github.io/tree/master/assets/CV-CHEN Chen.pdf) and [SOP](https://github.com/CCXaoXX/ChenChen.github.io/tree/master/assets/SOP-CHEN Chen.pdf) here.
 
