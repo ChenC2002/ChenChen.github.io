@@ -77,7 +77,7 @@ SELECTED COURSES
 LANGUAGE and SKILLS
 ======
 * Language: IELTS(Academic) - 7.0 (Overall Score)
-* Coding: Python, C, JavaScript, HTML/CSS
+* Coding: Python, PyTorch, TensorFlow, C, JavaScript, HTML/CSS
 * Tools: Linux Shell, Matlab, Latex
 
 REFERENCES
