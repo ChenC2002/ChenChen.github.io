@@ -28,12 +28,14 @@ RESEARCH EXPERIENCE
 **Research Interests**: Social Media Mining, Sentiment Analysis, Text Mining, Natural Language Processing (NLP), and Graph Neural Networks (GNNs)
 
 **Interpretable Depression Detection Method on Social Media Networks**, Sep 2020 – Jun 2024
+
 _The Graph Neural Networks (GNN) Lab, Guangdong University of Technology_
 * Developed an interpretable depression detection method on social media and explored the heterogeneity of social data and the interactivity of social users
 * Found that prompt learning can map users' implicit interpretable psychological symbols, and heterogeneous attention network and subgraph contrastive learning can investigate feature-level and user-level interactions
 * Secured two invention patents (CN-2023101434276) and three software copyrights (CCPC-2022SR0708926) based on the outcomes
 
 **Enhanced Semantic and Syntactic Graphs**, Jun – Jul 2023
+
 _Red Bird Challenge Camp, Hong Kong University of Science and Technology (HKUST)_
  	
 * Implemented enhanced semantic and syntactic graphs and evaluated their weights via unsupervised learning for fine-grained sentiment analysis in terms of the motion aspect
@@ -51,6 +53,7 @@ Publications
 INTERNSHIP
 ======
 [**China Mobile Information Technology Company**](https://www.cmi.chinamobile.com/en), _Guangzhou_, China
+
 _Intern in AI and Big Data Department_, Jun — Aug 2023
 * Deployed _ChatGLM2_ in a live production setting and optimized prompt words to limit the GPU memory use of a single model to under 2GB
 * Introduced _ChatSQL_ to enable non-specialist users to interact with databases using natural language
