@@ -8,6 +8,25 @@ redirect_from:
 
 {% include base_path %}
 
+Education
+======
+[Guangdong University of Technology](https://english.gdut.edu.cn/) , Guangzhou, China
+[https://www.usnews.com/education/best-global-universities/guangdong-university-of-technology-529270](_Bachelor of Engineering in Artificial Intelligence_), Sep 2020 — Jun 2024
+* **CGPA**: 3.47/4.00; **GPA** (Final Two Years): 3.86/4.00; **Rank**: 13/810.
+**Dissertation**: _Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media_ (Excellent Bachelor Thesis Award, 5/153)
+**Core Courses**: Advanced Machine Learning (3.8/4.0), Natural Language Processing (4.0/4.0), Text Information Processing (3.6/4.0), Recognition of Patterns (3.9/4.0), Computer Vision (4.0/4.0), Data Mining (3.9/4.0)
+**Math Courses**: Numerical Analysis (3.7/4.0), Optimization Methods (4.0/4.0), Discrete Math (3.9/4.0), Linear Algebra (3.7/4.0), Digital Signal Processing (4.0/4.0), Theory of Probability & Mathematical Statistics (4.0/4.0)
+
+RESEARCH EXPERIENCE
+======
+**Research Interests**: Social Media Mining, Sentiment Analysis, Text Mining, Natural Language Processing (NLP), and Graph Neural Networks (GNNs)
+
+<p>**Interpretable Depression Detection Method on Social Media Networks**  Sep 2020 – Jun 2024</p>
+_The Graph Neural Networks (GNN) Lab, Guangdong University of Technology_
+* Developed an interpretable depression detection method on social media and explored the heterogeneity of social data and the interactivity of social users
+* Found that prompt learning can map users' implicit interpretable psychological symbols, and heterogeneous attention network and subgraph contrastive learning can investigate feature-level and user-level interactions
+* Secured two invention patents (CN-2023101434276) and three software copyrights (CCPC-2022SR0708926) based on the outcomes
+
 RESEARCH INTERESTS
 ======
 Social Media Mining, Sentiment Analysis, Text Mining, Natural Language Processing and Graph Neural Networks
@@ -18,22 +37,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-RESEARCH EXPERIENCE
-======
-* [Graph Neural Networks Lab at the Guangdong University of Technology](https://cs.gdut.edu.cn/English/About_us.htm), Sep 2020 — Jun 2024
-  * The research focused on evaluating depressive tendencies through social media analysis and seeking insights into improving the interpretability of language models beyond superior performance
-  * An interpretable depression detection method on social media was developed, and the heterogeneity of social data and the interactivity of social users were learned
-  * This experience produced a paper submission to Knowledge-Based Systems, published two invention patents (CN 2023101434276 et al.), and three software copyrights (CCPC 2022SR0708926 et al.)
-* [Red Bird Challenge Camp at the Hong Kong University of Science and Technology](https://www.hkust-gz.edu.cn/academics/teaching-and-learning-innovation/red-bird-challenge-camp/), Jun 2023 — Jul 2023
-  * This research focused on applying motion-assisted robots, currently writing this work for publication and have presented research via presentations, posters, and videos for several academic groups
-  * Constructed enhanced semantic and syntactic graphs for syntactic and semantic information learning, and evaluated the weights of syntax and semantics in an unsupervised-learning manner to address inefficiencies and low interpretability in voice input methods for space-constrained mobile devices
 
-Education
-======
-[Guangdong University of Technology](https://english.gdut.edu.cn/) (#59 in AI Subject global, U.S.News), Guangzhou, China
-* Bachelor of Engineering in Artificial Intelligence, Sep 2020 — Jun 2024
-* Cumulative GPA: 3.47/4.00, Last Two Years GPA: 3.86/4.00 (13<sup>th</sup>/810)
-* Dissertation Title: Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media (Excellent Bachelor Thesis Award, 5/153)
 
 AWARDS and FUNDING
 ======
