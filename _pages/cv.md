@@ -11,7 +11,8 @@ redirect_from:
 Education
 ======
 [Guangdong University of Technology](https://english.gdut.edu.cn/) , Guangzhou, China
-[https://www.usnews.com/education/best-global-universities/guangdong-university-of-technology-529270](_Bachelor of Engineering in Artificial Intelligence_), Sep 2020 — Jun 2024
+[_Bachelor of Engineering in Artificial Intelligence_](https://www.usnews.com/education/best-global-universities/guangdong-university-of-technology-529270), Sep 2020 — Jun 2024
+
 * **CGPA**: 3.47/4.00; **GPA** (Final Two Years): 3.86/4.00; **Rank**: 13/810.
 **Dissertation**: _Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media_ (Excellent Bachelor Thesis Award, 5/153)
 **Core Courses**: Advanced Machine Learning (3.8/4.0), Natural Language Processing (4.0/4.0), Text Information Processing (3.6/4.0), Recognition of Patterns (3.9/4.0), Computer Vision (4.0/4.0), Data Mining (3.9/4.0)
