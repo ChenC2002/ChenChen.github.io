@@ -76,7 +76,7 @@ AWARDS & FUNDINGS
   
 **Competitions**
 * 14<sup>th</sup> "LanQiao Cup" National Software & IT Professionals Competition (Apr 2023): **2<sup>nd</sup> Prize**
-* _Kaggle_ Competition "_NLP of Disaster Tweets_" (Apr 2022): Ranked among **Top 5% **
+* _Kaggle_ Competition "_NLP of Disaster Tweets_" (Apr 2022): Ranked among **Top 5%**
 
 TEACHING EXPERIENCE
 ======
