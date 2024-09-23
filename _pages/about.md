@@ -14,6 +14,6 @@ Pursuing a Ph.D. is primarily driven by my pertinent research and passion for ex
 
 My research interests include Social Media Mining, Sentiment Analysis, Text Mining, Natural Language Processing and Graph Neural Networks.
 
-You can find my [CV](https://github.com/CCXaoXX/ChenChen.github.io/tree/master/assets/CV_CHEN_Chen.pdf) here.
+You can find my [CV](https://drive.google.com/file/d/15Tjkj__hEPyMDef0W3BPiehrk6DqvqxN/view?usp=sharing) here.
 
 [Github](https://github.com/CCXaoXX) / [CSDN](https://blog.csdn.net/m0_53382422) / [Wechat](https://github.com/CCXaoXX/ChenChen.github.io/tree/master/images/wechat.jpg)
