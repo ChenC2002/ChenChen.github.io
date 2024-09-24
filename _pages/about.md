@@ -11,7 +11,7 @@ As a graduate of Artificial Intelligence (AI) from the [Guangdong University of 
 
 Pursuing a Ph.D. is primarily driven by my pertinent research and passion for exploring advanced and innovative ideas in NLP and GNNs. I firmly believe that language signifies the essence of social interactions, bridging the gap between machines, individuals, and the broader world. In the future, I aspire to gain an in-depth understanding of the semantics and determine the efficacy of hypergraphs in addressing the issue of transmission chains and social groups. The precise word connotations across diverse contexts and their interpretability can offer valuable insights for language models to tackle complex tasks effectively. I hope to explore these ideas during my doctoral studies.
 
-My research interests include Social Media Mining, Sentiment Analysis, Text Mining, Natural Language Processing and Graph Neural Networks.
+My research interests include _Social Media Mining, Sentiment Analysis, Text Mining, Natural Language Processing and Graph Neural Networks_.
 
 ## News
 * 6/2024: I was awarded the Excellent Bachelor Thesis Award. 
