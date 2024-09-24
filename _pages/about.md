@@ -20,6 +20,7 @@ My research interests include Social Media Mining, Sentiment Analysis, Text Mini
 * 2/2023: My first-author manuscript has been conditionally accepted at Knowledge-Based Systems. 
 * 9/2020: I joined the GNN Lab at Guangdong University of Technology. 
 
+
 You can find my [CV](https://drive.google.com/file/d/15Tjkj__hEPyMDef0W3BPiehrk6DqvqxN/view?usp=sharing) here.
 
 [Github](https://github.com/CCXaoXX) / [CSDN](https://blog.csdn.net/m0_53382422) / [Wechat](https://github.com/CCXaoXX/ChenChen.github.io/tree/master/images/wechat.jpg)
