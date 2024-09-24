@@ -22,7 +22,7 @@ My research interests include Social Media Mining, Sentiment Analysis, Text Mini
 
 ## News
 ```
-5. I secured the Excellent Bachelor Thesis Award. 2024.06
+5. I was awarded the Excellent Bachelor Thesis Award. 2024.06
 4. I interned at China Mobile Information Technology Company. 2023.07
 3. I joined the Redbird Challenge Camp at the Hong Kong University of Science andTechnology. 2023.06
 2. My first-author manuscript has been conditionally accepted at _Knowledge-Based Systems_. 2023.03
