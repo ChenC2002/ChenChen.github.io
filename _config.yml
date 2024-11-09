@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Chen Chen / Academic Homepage"
 title_separator          : "-"
-name                     : &name "Chen Chen (陈宸)"
+name                     : &name "Chen Chen"
 description              : &description "personal description"
 url                      : https://ccxaoxx.github.io/ChenChen.github.io/ # the base hostname & protocol for your site e.g. "https://ccxaoxx.github.io/ChenChen.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "https://ccxaoxx.github.io/ChenChen.github.io/"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Chen Chen"
+  name             : "Chen Chen (陈宸)"
   pronouns         : # example: "he/his"  
   bio              : "Seeking a PhD!!!"
   location         : "Guangzhou, China"
