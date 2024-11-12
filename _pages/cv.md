@@ -25,7 +25,7 @@ Education
 
 RESEARCH EXPERIENCE
 ======
-**Research Interests**: Social Media Mining, Sentiment Analysis, Text Mining, Graph Neural Networks (GNNs) and Trustworthy Natural Language Processing (NLP)
+**Research Interests**: Social Media Mining, Sentiment Analysis, Text Mining, GNN and Trustworthy NLP
 
 **Interpretable Depression Detection Method on Social Media Networks**, Sep 2020 – Jun 2024
 
