@@ -14,11 +14,11 @@ Pursuing a Ph.D. is primarily driven by my pertinent research and passion for ex
 My research interests include _Social Media Mining, Sentiment Analysis, Text Mining, Natural Language Processing and Graph Neural Networks_.
 
 ## News
-* 6/2024: I was awarded the Excellent Bachelor Thesis Award. 
-* 7/2023: I interned at China Mobile Information Technology Company. 
-* 6/2023: I joined the Redbird Challenge Camp at the Hong Kong University of Science andTechnology. 
-* 2/2023: My first-author manuscript has been conditionally accepted at Knowledge-Based Systems. 
-* 9/2020: I joined the GNN Lab at Guangdong University of Technology. 
+* 6/2024: I am awarded the Excellent Bachelor Thesis Award. 
+* 7/2023: I intern at China Mobile Information Technology Company. 
+* 6/2023: I join the Redbird Challenge Camp at the Hong Kong University of Science and Technology. 
+* 2/2023: My first-author manuscript is conditionally accepted at Knowledge-Based Systems. 
+* 10/2020: I join the GNN Lab at the Guangdong University of Technology. 
 
 
 You can find my [CV](https://drive.google.com/file/d/15Tjkj__hEPyMDef0W3BPiehrk6DqvqxN/view?usp=sharing) here.
