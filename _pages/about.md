@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I will join the Jayhawk Data Science Lab at the University of Kansas for my Ph.D. in Fall 25, under the supervision of [Dr. Zijun Yao](https://ittc.ku.edu/~zyao/). My current research centers around health informatics, natural language processing, and graph neural networks. Previously, I received my B.E. in Artificial Intelligence from the Guangdong University of Technology in 2024, under the guidance of [Dr. Fenghuan Li](https://dblp.org/pid/07/10130.html), focusing on interpretable depression detection utilizing Graph Neural Networks and contrastive learning. 
+I will join the Jayhawk Data Science Lab at the University of Kansas for my Ph.D. in Fall 25, under the supervision of [Dr. Zijun Yao](https://ittc.ku.edu/~zyao/). My current research centers around health informatics, natural language processing, and graph neural networks. Previously, I received my B.E. in Artificial Intelligence from the Guangdong University of Technology in 2024, under the guidance of [Dr. Fenghuan Li](https://dblp.org/pid/07/10130.html), focusing on interpretable depression detection utilizing graph neural networks and contrastive learning. 
 
-You can find my [CV](https://drive.google.com/file/d/15Tjkj__hEPyMDef0W3BPiehrk6DqvqxN/view?usp=sharing) here.
+[Here is my CV.](https://drive.google.com/file/d/15Tjkj__hEPyMDef0W3BPiehrk6DqvqxN/view?usp=sharing)
 
 ## Publications
-* **Chen Chen**, Fenghuan Li, Haopeng Chen, Yuankun Lin, "Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media". Knowledge-Based Systems (KBS), 2024. [Link](https://doi.org/10.1016/j.knosys.2025.113215)
+1. **Chen Chen**, Fenghuan Li, Haopeng Chen, Yuankun Lin, "Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media". Knowledge-Based Systems (**KBS**), 2024. [Link](https://doi.org/10.1016/j.knosys.2025.113215)
 
 ## News
 * 3/2025: I receive a GRA offer with full funding to support my Ph.D. study, thanks to Dr. Yao!
