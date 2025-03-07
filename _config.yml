@@ -12,9 +12,9 @@ title                    : "Chen Chen"
 title_separator          : "-"
 name                     : &name "Chen Chen"
 description              : &description "personal description"
-url                      : "https://chenC2002.github.io/ChenChen.github.io/"
+url                      : https://chenC2002.github.io/ChenChen.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://chenC2002.github.io/ChenChen.github.io/"
+repository               : "chenC2002.github.io/ChenChen.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
