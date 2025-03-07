@@ -14,7 +14,7 @@ name                     : &name "Chen Chen"
 description              : &description "personal description"
 url                      : https://chenC2002.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "chenC2002.github.io/ChenChen.github.io"
+repository               : "chenC2002/ChenChen.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -71,7 +71,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  blog            : "https://blog.csdn.net/m0_53382422?spm=1000.2115.3001.5343"
+  zhihu            : "https://blog.csdn.net/m0_53382422?spm=1000.2115.3001.5343"
 
 
 # Site Settings
