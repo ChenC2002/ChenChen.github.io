@@ -12,7 +12,7 @@ title                    : "Chen Chen"
 title_separator          : "-"
 name                     : &name "Chen Chen"
 description              : &description "personal description"
-url                      : https://chenC2002.github.io/ChenChen.github.io
+url                      : https://chenC2002.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenC2002.github.io/ChenChen.github.io"
 
