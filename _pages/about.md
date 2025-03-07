@@ -12,7 +12,7 @@ I will join the Jayhawk Data Science Lab at the University of Kansas for my Ph.D
 You can find my [CV](https://drive.google.com/file/d/15Tjkj__hEPyMDef0W3BPiehrk6DqvqxN/view?usp=sharing) here.
 
 ## Publications
-* **Chen Chen**, Fenghuan Li, Haopeng Chen, Yuankun Lin, "Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media". Knowledge-Based Systems (KBS), 2024. \ [Link](https://doi.org/10.1016/j.knosys.2025.113215)
+* **Chen Chen**, Fenghuan Li, Haopeng Chen, Yuankun Lin, "Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media". Knowledge-Based Systems (KBS), 2024. [Link](https://doi.org/10.1016/j.knosys.2025.113215)
 
 ## News
 * 3/2025: I receive a GRA offer with full funding to support my Ph.D. study, thanks to Dr. Yao!
