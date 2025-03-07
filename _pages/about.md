@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I will join the Jayhawk Data Science Lab at the University of Kansas for my Ph.D. in Fall 25, under the supervision of Prof. Zijun Yao. My current research centers around health informatics, natural language processing, and graph neural networks. Previously, I received my B.E. in Artificial Intelligence from the Guangdong University of Technology in 2024, under the guidance of Prof. Fenghuan Li, focusing on interpretable depression detection utilizing Graph Neural Networks and contrastive learning. 
+I will join the Jayhawk Data Science Lab at the University of Kansas for my Ph.D. in Fall 25, under the supervision of [Prof. Zijun Yao](https://ittc.ku.edu/~zyao/). My current research centers around health informatics, natural language processing, and graph neural networks. Previously, I received my B.E. in Artificial Intelligence from the Guangdong University of Technology in 2024, under the guidance of Prof. Fenghuan Li, focusing on interpretable depression detection utilizing Graph Neural Networks and contrastive learning. 
 
 You can find my [CV](https://drive.google.com/file/d/15Tjkj__hEPyMDef0W3BPiehrk6DqvqxN/view?usp=sharing) here.
 
