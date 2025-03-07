@@ -31,10 +31,10 @@ author:
   email            : "chenchen9@ku.edu" 
 
   # Academic websites
-  arxiv            : #
+  arxiv            : # "https://arxiv.org/a/chen_c_12.html"
   googlescholar    : "https://scholar.google.com/citations?user=3PExFM8AAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : #
+  orcid            : # "https://orcid.org/my-orcid?orcid=0009-0002-5110-2368"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -71,7 +71,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : "https://blog.csdn.net/m0_53382422?spm=1000.2115.3001.5343"
+  zhihu            : # "https://blog.csdn.net/m0_53382422?spm=1000.2115.3001.5343"
 
 
 # Site Settings
