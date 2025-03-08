@@ -15,9 +15,9 @@ I will join the Jayhawk Data Science Lab at the University of Kansas for my Ph.D
 1. **Chen Chen**, Fenghuan Li, Haopeng Chen, Yuankun Lin, "Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media". *Knowledge-Based Systems (**KBS**)*, 2024. [Link](https://doi.org/10.1016/j.knosys.2025.113215)
 
 ## News
-* 3/2025: I receive a GRA offer with full funding to support my Ph.D. study, thanks to Dr. Yao!
-* 6/2024: I am awarded the Excellent Bachelor Thesis Award, thanks to Dr. Li!
-* 7/2023: I intern at China Mobile Information Technology Company. 
-* 6/2023: I join the Redbird Challenge Camp at the Hong Kong University of Science and Technology. 
-* 2/2023: My first-author manuscript is accepted at Knowledge-Based Systems. 
-* 10/2020: I join the GNN Lab at the Guangdong University of Technology. 
+* [3/2025]: I receive a GRA offer with full funding to support my Ph.D. study, thanks to Dr. Yao!
+* [6/2024]: I am awarded the Excellent Bachelor Thesis Award, thanks to Dr. Li!
+* [7/2023]: I intern at China Mobile Information Technology Company. 
+* [6/2023]: I join the Redbird Challenge Camp at the Hong Kong University of Science and Technology. 
+* [2/2023]: My first-author manuscript is accepted at Knowledge-Based Systems. 
+* [10/2020]: I join the GNN Lab at the Guangdong University of Technology. 
