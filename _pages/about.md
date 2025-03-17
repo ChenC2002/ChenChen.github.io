@@ -17,7 +17,7 @@ I will join the Jayhawk Data Science Lab at the University of Kansas for my Ph.D
 ## News
 * 03/2025: I receive a GRA offer with full funding to support my Ph.D. study, thanks to Dr. Yao!
 * 06/2024: I am awarded the Excellent Bachelor Thesis Award, thanks to Dr. Li!
-* 02/2024: My first-author manuscript is accepted at Knowledge-Based Systems. 
-* 07/2023: I intern at China Mobile Information Technology Company. 
+* 02/2024: My first-author manuscript is accepted at the Knowledge-Based Systems. 
+* 07/2023: I intern at the China Mobile Information Technology Company. 
 * 06/2023: I join the Redbird Challenge Camp at the Hong Kong University of Science and Technology. 
 * 10/2020: I join the GNN Lab at the Guangdong University of Technology. 
