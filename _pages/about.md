@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in the Jayhawk Data Science Lab at the University of Kansas, under the supervision of [Dr. Zijun Yao](https://ittc.ku.edu/~zyao/). My current research centers around health informatics, natural language processing, and graph neural networks. Previously, I received my B.E. in Artificial Intelligence from the Guangdong University of Technology in 2024, under the guidance of [Dr. Fenghuan Li](https://dblp.org/pid/07/10130.html), focusing on interpretable depression detection utilizing graph neural networks and contrastive learning. 
+I am a first-year Ph.D. student in the Jayhawk Data Science Lab at the University of Kansas, under the supervision of [Dr. Zijun Yao](https://ittc.ku.edu/~zyao/). My current research centers around health informatics, natural language processing, and graph learning. Previously, I received my B.E. in Artificial Intelligence from the Guangdong University of Technology in 2024, under the guidance of [Dr. Fenghuan Li](https://dblp.org/pid/07/10130.html), focusing on interpretable depression detection utilizing graph neural networks and contrastive learning. 
 
 [Here is my CV.](https://drive.google.com/file/d/15Tjkj__hEPyMDef0W3BPiehrk6DqvqxN/view?usp=sharing)
 
