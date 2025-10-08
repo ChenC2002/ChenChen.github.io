@@ -336,4 +336,4 @@ compress_html:
   ignore:
     envs: development
 
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=tfEtRxP0NZDI2_AOexEICOq9jA8yZUAqJAnNIJUDsWI"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=Ga8GLMC2UhexhyHsVaVS0eNopC8plp-ANPjma49HzDM&cl=ffffff&w=a"></script>
