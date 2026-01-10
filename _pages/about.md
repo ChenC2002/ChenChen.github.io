@@ -12,7 +12,7 @@ I am a first-year Ph.D. student in the Jayhawk Data Science Lab at the Universit
 [Here is my CV.](https://drive.google.com/file/d/15Tjkj__hEPyMDef0W3BPiehrk6DqvqxN/view?usp=sharing)
 
 ## Publications
-1. **Chen Chen**, Fenghuan Li, Haopeng Chen, Yuankun Lin, "Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media". *Knowledge-Based Systems (**KBS**)*, 2024. [Link](https://doi.org/10.1016/j.knosys.2025.113215)
+1. **Chen Chen**, Fenghuan Li, Haopeng Chen, Yuankun Lin, "Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media". *Knowledge-Based Systems (**KBS, IF 8.8**)*, 2025. [Link](https://doi.org/10.1016/j.knosys.2025.113215)
 
 ## News
 * 06/2024: I recieve the Excellent Bachelor Thesis Award.
