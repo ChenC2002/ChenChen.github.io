@@ -14,7 +14,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
 [Here is my CV.](https://drive.google.com/file/d/15Tjkj__hEPyMDef0W3BPiehrk6DqvqxN/view?usp=sharing)
 
 ## Publications
-1. **C Chen**, F Li, H Chen, Y Lin, "Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media". *Knowledge-Based Systems (**KBS, IF 8.8**)*, 2025. [Paper](https://doi.org/10.1016/j.knosys.2025.113215)
+1. **C Chen**, F Li, H Chen, Y Lin, "Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media". *Knowledge-Based Systems (**KBS, IF 8.8**)*, 2025. [_paper_](https://doi.org/10.1016/j.knosys.2025.113215)
 
 # News
 * 06/2024: Received the Excellent Bachelor Thesis Award.
