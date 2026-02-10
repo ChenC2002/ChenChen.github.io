@@ -27,8 +27,13 @@ author:
   bio              : "Let's go!"
   location         : #
   employer         : "University of Kansas"
-  uri              : "https://drive.google.com/file/d/15Tjkj__hEPyMDef0W3BPiehrk6DqvqxN/view?usp=sharing"
+  uri              : #
   email            : "chenchen@ku.edu" 
+  
+  links:
+      - label: "CV"
+        icon: "fas fa-fw fa-file-pdf"
+        url: "https://drive.google.com/file/d/15Tjkj__hEPyMDef0W3BPiehrk6DqvqxN/view?usp=sharing"
 
   # Academic websites
   arxiv            : # "https://arxiv.org/a/chen_c_12.html"
