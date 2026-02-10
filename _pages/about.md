@@ -18,6 +18,6 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
 
 # News
 * 06/2024: Received the Excellent Bachelor Thesis Award.
-* 02/2025: Our manuscript was accepted by the Knowledge-Based Systems. 
+* 02/2024: Our manuscript was accepted by the Knowledge-Based Systems. 
 * 07/2023: Interned at China Mobile Information Technology Company.
 * 06/2023: Joined the Red Bird Challenge Camp at Hong Kong University of Science and Technology.
