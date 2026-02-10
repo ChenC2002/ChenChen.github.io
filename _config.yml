@@ -20,11 +20,15 @@ repository               : "chenC2002/ChenChen.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar   : "profile.jpg"
-  name     : "Chen Chen (陈宸)"
-  bio      : "Let's go!"
-  employer : "University of Kansas"
-  email    : "chenchen@ku.edu"
+  # Biographic information
+  avatar           : "profile.png"
+  name             : "Chen Chen (陈宸)"
+  pronouns         : # example: "she/her"  
+  bio              : "Let's go!"
+  location         : # "Earth"
+  employer         : "University of Kansas"
+  uri              : # URL
+  email            : "chenchen@ku.edu"
 
   # Academic websites
   arxiv            : # "https://arxiv.org/a/chen_c_12.html"
