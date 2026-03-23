@@ -17,9 +17,9 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
 ## Publications
 1. **Knowledge-Based Systems 2025** &#124; Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media. **C Chen**, F Li, H Chen, Y Lin. &#124; [_paper_](https://doi.org/10.1016/j.knosys.2025.113215)
 
-## Manuscripts
+%% ## Manuscripts
 1. **KDD 2026** &#124; Dynamic Topology Augmentation with Budget-Aware Knowledge Graph Injection for Healthcare Prediction. **C Chen**, MN Kerdabadi, D Wang, Z Yao. &#124; _Under review._
-2. **ACL 2026** &#124; Text-Attributed Knowledge Graph Enrichment with Large Language Models for Medical Concept Representation. MN Kerdabadi, AH Moghaddam, **C Chen**, D Wang, Z Yao. &#124; _Under review._
+2. **ACL 2026** &#124; Text-Attributed Knowledge Graph Enrichment with Large Language Models for Medical Concept Representation. MN Kerdabadi, AH Moghaddam, **C Chen**, D Wang, Z Yao. &#124; _Under review._ %%
 
 # News
 * 06/2024: Received the Excellent Bachelor Thesis Award.
