@@ -11,7 +11,7 @@ I am a Ph.D. student in Computer Science at the University of Kansas, advised by
 
 My research interests include AI for Healthcare (AI4Health), Graph-Enhanced Large Language Models (Graph4LLMs), and Interpretable AI.
 
-Previously, I received my B.E. in Artificial Intelligence from Guangdong University of Technology in 2024, where I was advised by [Dr. Fenghuan Li](https://dblp.org/pid/07/10130.html). During my undergraduate research, I worked on Graph Learning in Natural Language Processing.
+Previously, I received my B.E. in Artificial Intelligence from Guangdong University of Technology in 2024, where I was advised by [Dr. Fenghuan Li](https://dblp.org/pid/07/10130.html). During my undergraduate research, I worked on graph learning for natural language processing, with a focus on interpretable social media analysis.
 
 [Here is my CV.](https://drive.google.com/file/d/15Tjkj__hEPyMDef0W3BPiehrk6DqvqxN/view?usp=sharing)
 
