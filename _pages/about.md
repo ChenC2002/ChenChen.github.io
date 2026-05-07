@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. student in Computer Science at the University of Kansas, advised by [Dr. Zijun Yao](https://ittc.ku.edu/~zyao/).
 
-My research interests include AI for Healthcare (AI4Health), Graph-Enhanced Large Language Models (Graph4LLMs), and Interpretable AI.
+My research interests include AI for healthcare (AI4Health), graph-enhanced large language models (Graph4LLMs), and interpretable AI. 
 
 Previously, I received my B.E. in Artificial Intelligence from Guangdong University of Technology in 2024, where I was advised by [Dr. Fenghuan Li](https://dblp.org/pid/07/10130.html). During my undergraduate research, I worked on graph learning for natural language processing, with a focus on interpretable social media analysis.
 
