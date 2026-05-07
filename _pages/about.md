@@ -16,7 +16,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
 [Here is my CV.](https://drive.google.com/file/d/15Tjkj__hEPyMDef0W3BPiehrk6DqvqxN/view?usp=sharing)
 
 ## Publications
-%% 1. **ACL 2026  Main Conference** &#124; MN Kerdabadi, AH Moghaddam, **C Chen**, D Wang, Z Yao. Text-Attributed Knowledge Graph Enrichment with Large Language Models for Medical Concept Representation &#124; [_Link_]
+1. **ACL 2026  Main Conference** &#124; MN Kerdabadi, AH Moghaddam, **C Chen**, D Wang, Z Yao. Text-Attributed Knowledge Graph Enrichment with Large Language Models for Medical Concept Representation
 2. **Knowledge-Based Systems 2025** &#124; **C Chen**, F Li, H Chen, Y Lin. Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media &#124; [_Link_](https://doi.org/10.1016/j.knosys.2025.113215)
 
 # News
