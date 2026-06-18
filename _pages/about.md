@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. student in Computer Science at the University of Kansas, advised by [Dr. Zijun Yao](https://ittc.ku.edu/~zyao/).
 
-My research focuses on building LLM agents that learn from verifiable feedback, reason over structured knowledge, and make reliable decisions using post-training, agentic reasoning, and graph learning. I primarily evaluate these methods in healthcare.
+My research focuses on LLM Post-Training, Self-Improving Agents, Verifiable Reasoning, and Graph Learning, with a focus on evaluating these methods in healthcare.
 
 Previously, I received my B.E. in Artificial Intelligence from Guangdong University of Technology, where I was advised by [Dr. Fenghuan Li](https://dblp.org/pid/07/10130.html) and worked on interpretable graph learning for social media analysis.
 
