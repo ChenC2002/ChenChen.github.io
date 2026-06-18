@@ -17,9 +17,9 @@ Before joining the University of Kansas, I received my B.E. in Artificial Intell
 
 ## Publications
 
-1. M. N. Kerdabadi, A. H. Moghaddam, **C. Chen**, D. Wang, and Z. Yao. [“Text-Attributed Knowledge Graph Enrichment with Large Language Models for Medical Concept Representation.”](https://arxiv.org/abs/2604.13331) ***ACL 2026 Main Conference***.
+1. M. N. Kerdabadi, A. H. Moghaddam, **C. Chen**, D. Wang, and Z. Yao. [“Text-Attributed Knowledge Graph Enrichment with Large Language Models for Medical Concept Representation.”](https://arxiv.org/abs/2604.13331) *ACL 2026 Main Conference*.
 
-2. **C. Chen**, F. Li, H. Chen, and Y. Lin. [“Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media.”](https://doi.org/10.1016/j.knosys.2025.113215) ***Knowledge-Based Systems, 2025***.
+2. **C. Chen**, F. Li, H. Chen, and Y. Lin. [“Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media.”](https://doi.org/10.1016/j.knosys.2025.113215) *Knowledge-Based Systems, 2025*.
 
 ## News
 
