@@ -23,5 +23,5 @@ Before joining the University of Kansas, I received my B.E. in Artificial Intell
 
 ## News
 
-- **Feb 2025:** Our paper on interpretable depression detection was accepted for publication in *Knowledge-Based Systems*.
+- **Feb 2025:** Our paper was accepted for publication in *Knowledge-Based Systems*.
 - **Jun 2024:** I graduated with the Excellent Bachelor Thesis Award (Top 3%).
