@@ -11,7 +11,7 @@ I am a Ph.D. student in Computer Science at the University of Kansas, advised by
 
 My research focuses on LLM Post-Training, Self-Improving Agents, Verifiable Reasoning, and Graph Learning, with a focus on evaluating these methods in healthcare.
 
-Previously, I received my B.E. in Artificial Intelligence from Guangdong University of Technology, where I was advised by [Dr. Fenghuan Li](https://dblp.org/pid/07/10130.html) and worked on interpretable graph learning for social media analysis.
+Previously, I received my B.E. in Artificial Intelligence from Guangdong University of Technology, where I worked on interpretable graph learning for social media analysis, advised by [Dr. Fenghuan Li](https://dblp.org/pid/07/10130.html).
 
 [View my CV.](https://drive.google.com/file/d/15Tjkj__hEPyMDef0W3BPiehrk6DqvqxN/view?usp=sharing)
 
