@@ -15,7 +15,7 @@ Before joining the University of Kansas, I received my B.E. in Artificial Intell
 
 [View my CV.](https://drive.google.com/file/d/15Tjkj__hEPyMDef0W3BPiehrk6DqvqxN/view?usp=sharing)
 
-## Selected Publications
+## Publications
 
 1. M. N. Kerdabadi, A. H. Moghaddam, **C. Chen**, D. Wang, and Z. Yao. [“Text-Attributed Knowledge Graph Enrichment with Large Language Models for Medical Concept Representation.”](https://arxiv.org/abs/2604.13331) *ACL 2026 Main Conference*.
 
