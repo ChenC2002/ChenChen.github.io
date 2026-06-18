@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. student in Computer Science at the University of Kansas, advised by [Dr. Zijun Yao](https://ittc.ku.edu/~zyao/).
 
-My research interests include LLM post-training, agentic reasoning, and graph learning, and I primarily apply these methods to healthcare.
+My research explores how LLMs can learn, reason, and use structured knowledge more reliably, with a focus on post-training, agentic reasoning, and graph learning for healthcare applications.
 
 Before joining the University of Kansas, I received my B.E. in Artificial Intelligence from Guangdong University of Technology in 2024, advised by [Dr. Fenghuan Li](https://dblp.org/pid/07/10130.html). My undergraduate research explored heterogeneous graph learning for interpretable social media analysis.
 
