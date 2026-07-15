@@ -24,4 +24,4 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
 ## News
 
 - **Feb 2025:** My paper was accepted for publication in Knowledge-Based Systems.
-- **Jun 2024:** I graduated with the Excellent Bachelor Thesis Award.
+- **Jun 2024:** I graduated with the Outstanding Undergraduate Thesis Award.
