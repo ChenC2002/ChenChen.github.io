@@ -19,11 +19,11 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
 
 + **C. Chen**, M. N. Kerdabadi, D. Wang, M. Liu, and Z. Yao. "Import What You Need: Learning When and How to Augment EHR Graphs with External Knowledge." ***EMNLP 2026 Main Conference***.
 
-+ A. H. Moghaddam, M. N. Kerdabadi, **C. Chen**, D. Wang, and Z. Yao. "RASPER: Reward-Aligned Summarization of Clinical Notes for EHR Outcome Prediction." ***EMNLP 2026 Main Conference***.
++ A. H. Moghaddam, M. N. Kerdabadi, **C. Chen**, D. Wang, and Z. Yao. "RASPER: Reward-Aligned Summarization of Clinical Notes for EHR Outcome Prediction." *EMNLP 2026 Main Conference.*
 
-+ M. N. Kerdabadi, A. H. Moghaddam, **C. Chen**, D. Wang, and Z. Yao. [“Text-Attributed Knowledge Graph Enrichment with Large Language Models for Medical Concept Representation.”](https://aclanthology.org/2026.acl-long.753/) ***ACL 2026 Main Conference***.
++ M. N. Kerdabadi, A. H. Moghaddam, **C. Chen**, D. Wang, and Z. Yao. [“Text-Attributed Knowledge Graph Enrichment with Large Language Models for Medical Concept Representation.”](https://aclanthology.org/2026.acl-long.753/) *ACL 2026 Main Conference.*
 
-+ **C. Chen**, F. Li, H. Chen, and Y. Lin. [“Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media.”](https://doi.org/10.1016/j.knosys.2025.113215) ***Knowledge-Based Systems***, 2025.
++ **C. Chen**, F. Li, H. Chen, and Y. Lin. [“Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media.”](https://doi.org/10.1016/j.knosys.2025.113215) ***Knowledge-Based Systems, 2025.***
 
 ## News
 
