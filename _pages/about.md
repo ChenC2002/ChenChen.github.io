@@ -17,7 +17,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
 
 ## Publications
 
-+ **C. Chen**, M. N. Kerdabadi, D. Wang, M. Liu, and Z. Yao. "Import What You Need: Learning When and How to Augment EHR Graphs with External Knowledge." ****EMNLP 2026 Main Conference***.
++ **C. Chen**, M. N. Kerdabadi, D. Wang, M. Liu, and Z. Yao. "Import What You Need: Learning When and How to Augment EHR Graphs with External Knowledge." ***EMNLP 2026 Main Conference***.
 
 + A. H. Moghaddam, M. N. Kerdabadi, **C. Chen**, D. Wang, and Z. Yao. "RASPER: Reward-Aligned Summarization of Clinical Notes for EHR Outcome Prediction." ***EMNLP 2026 Main Conference***.
 
