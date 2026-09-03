@@ -50,11 +50,13 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
   <article class="selected-research__item">
     <div class="selected-research__image">
       <span class="selected-research__venue">KBS 2025</span>
-      <img
-        src="https://chenc2002.github.io/ChenChen.github.io/images/HSNPL.png"
-        alt="Overview of the HSNPL framework"
-        loading="lazy"
-      >
+      <a href="https://doi.org/10.1016/j.knosys.2025.113215" target="_blank" rel="noopener">
+          <img
+            src="https://chenc2002.github.io/ChenChen.github.io/images/HSNPL.png"
+            alt="Overview of the HSNPL framework"
+            loading="lazy"
+          >
+        </a>
     </div>
 
     <div class="selected-research__content">
