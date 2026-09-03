@@ -33,7 +33,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
 
     <div class="selected-research__content">
       <h3 class="selected-research__title">
-        RL-Based Routing for Dynamic Knowledge Augmentation
+        Import What You Need: Learning When and How to Augment EHR Graphs with External Knowledge
       </h3>
 
       <p class="selected-research__description">
@@ -56,7 +56,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
 
     <div class="selected-research__content">
       <h3 class="selected-research__title">
-        Prompt-Augmented Heterogeneous Graph Learning
+        Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media
       </h3>
 
       <p class="selected-research__description">
