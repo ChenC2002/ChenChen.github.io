@@ -49,37 +49,6 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
     </div>
   </article>
 
-
-  <article class="selected-research__item">
-    <div class="selected-research__venue">
-      Knowledge-Based Systems 2025
-    </div>
-
-    <div class="selected-research__body">
-      <div class="selected-research__figure">
-        <a href="https://doi.org/10.1016/j.knosys.2025.113215"
-           target="_blank"
-           rel="noopener">
-          <img
-            src="{{ '/images/HSNPL.png' | relative_url }}"
-            alt="Overview of the HSNPL framework"
-            loading="lazy"
-          >
-        </a>
-      </div>
-
-      <div class="selected-research__content">
-        <h3 class="selected-research__title">
-          Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media
-        </h3>
-
-        <p class="selected-research__description">
-          Integrated prompt-derived semantic features with multi-level graph attention and self-supervised contrastive learning over heterogeneous data, outperforming prior methods while exposing interpretable feature- and group-level signals.
-        </p>
-      </div>
-    </div>
-  </article>
-
 </div>
 
 
