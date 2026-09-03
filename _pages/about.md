@@ -39,10 +39,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
       </h3>
 
       <ul class="selected-research__impact">
-        <li>
-          <strong>Academic Impact:</strong>
-          Designed an RL router that chooses feature enrichment, structural expansion, or skipping at each step using history-aware context and model uncertainty. Combined paired-reward training and decoupled encoders with gated fusion to improve predictive reliability and efficiency, with robust transfer across datasets and knowledge sources.
-        </li>
+        Designed an RL router that chooses feature enrichment, structural expansion, or skipping at each step using history-aware context and model uncertainty. Combined paired-reward training and decoupled encoders with gated fusion to improve predictive reliability and efficiency, with robust transfer across datasets and knowledge sources.
       </ul>
     </div>
   </article>
@@ -67,9 +64,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
       </h3>
 
       <ul class="selected-research__impact">
-        <li>
-          Integrated prompt-derived semantic features with multi-level graph attention and self-supervised contrastive learning over heterogeneous data, outperforming prior methods while exposing interpretable feature- and group-level signals.
-        </li>
+        Integrated prompt-derived semantic features with multi-level graph attention and self-supervised contrastive learning over heterogeneous data, outperforming prior methods while exposing interpretable feature- and group-level signals.
       </ul>
     </div>
   </article>
