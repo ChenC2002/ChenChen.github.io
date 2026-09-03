@@ -16,6 +16,161 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
 [View my CV.](https://drive.google.com/file/d/15Tjkj__hEPyMDef0W3BPiehrk6DqvqxN/view?usp=sharing)
 
 
+## Selected Research
+
+<div class="selected-pubs">
+
+  <!-- ReTA -->
+  <article class="selected-pub">
+    <div class="selected-pub__media">
+      <div class="selected-pub__badge">
+        EMNLP 2026
+      </div>
+
+      <a
+        href="https://arxiv.org/abs/2609.01839"
+        target="_blank"
+        rel="noopener"
+      >
+        <div class="selected-pub__thumbnail">
+          <img
+            src="{{ '/images/ReTA.png' | relative_url }}"
+            alt="ReTA framework"
+          >
+        </div>
+      </a>
+    </div>
+
+    <div class="selected-pub__content">
+      <div class="selected-pub__title">
+        Import What You Need: Learning When and How to Augment EHR Graphs with External Knowledge
+      </div>
+
+      <div class="selected-pub__authors">
+        <span class="selected-pub__me">Chen Chen</span>,
+        Mohsen Nayebi Kerdabadi, Dongjie Wang, Mei Liu, and Zijun Yao
+      </div>
+
+      <div class="selected-pub__venue">
+        <em>In EMNLP 2026 Main Conference</em>, Sep 2026
+      </div>
+
+      <div class="selected-pub__links">
+        <a
+          href="https://arxiv.org/abs/2609.01839"
+          target="_blank"
+          rel="noopener"
+        >
+          <img
+            src="https://img.shields.io/badge/arXiv-b31b1b.svg?logo=arXiv"
+            alt="arXiv"
+          >
+        </a>
+
+        <a
+          href="https://github.com/ChenC2002/ReTA"
+          target="_blank"
+          rel="noopener"
+        >
+          <img
+            src="https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white"
+            alt="GitHub"
+          >
+        </a>
+
+        <a
+          href="https://github.com/ChenC2002/ReTA"
+          target="_blank"
+          rel="noopener"
+        >
+          <img
+            src="https://img.shields.io/github/stars/ChenC2002/ReTA?style=social"
+            alt="GitHub stars"
+          >
+        </a>
+      </div>
+    </div>
+  </article>
+
+
+  <!-- HSNPL -->
+  <article class="selected-pub">
+    <div class="selected-pub__media">
+      <div class="selected-pub__badge">
+        KBS 2025
+      </div>
+
+      <a
+        href="https://arxiv.org/abs/2407.09019"
+        target="_blank"
+        rel="noopener"
+      >
+        <div class="selected-pub__thumbnail">
+          <img
+            class="selected-pub__image--hsnpl"
+            src="{{ '/images/HSNPL.png' | relative_url }}"
+            alt="HSNPL framework"
+            loading="lazy"
+          >
+        </div>
+      </a>
+    </div>
+
+    <div class="selected-pub__content">
+      <div class="selected-pub__title">
+        Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media
+      </div>
+
+      <div class="selected-pub__authors">
+        <span class="selected-pub__me">Chen Chen</span>,
+        Fenghuan Li, Haopeng Chen, and Yuankun Lin
+      </div>
+
+      <div class="selected-pub__venue">
+        <em>In Knowledge-Based Systems</em>, Apr 2025
+      </div>
+
+      <div class="selected-pub__links">
+        <a
+          href="https://arxiv.org/abs/2407.09019"
+          target="_blank"
+          rel="noopener"
+        >
+          <img
+            src="https://img.shields.io/badge/arXiv-b31b1b.svg?logo=arXiv"
+            alt="arXiv"
+          >
+        </a>
+
+        <a
+          href="https://doi.org/10.1016/j.knosys.2025.113215"
+          target="_blank"
+          rel="noopener"
+        >
+          <img
+            src="https://img.shields.io/badge/Paper-DOI-FFCC99"
+            alt="Published paper"
+          >
+        </a>
+
+        <a
+          href="YOUR-HSNPL-GITHUB-URL"
+          target="_blank"
+          rel="noopener"
+        >
+          <img
+            src="https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white"
+            alt="GitHub"
+          >
+        </a>
+        -->
+      </div>
+    </div>
+  </article>
+
+</div>
+
+
 ## Publications
 
 + **C. Chen**, M. N. Kerdabadi, D. Wang, M. Liu, and Z. Yao. [“Import What You Need: Learning When and How to Augment EHR Graphs with External Knowledge.”](https://arxiv.org/abs/2609.01839) ***EMNLP 2026 Main Conference***. 
