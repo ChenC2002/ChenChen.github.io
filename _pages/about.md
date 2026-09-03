@@ -23,10 +23,12 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
   <article class="selected-research__item">
     <div class="selected-research__image">
       <span class="selected-research__venue">EMNLP 2026</span>
-      <img
-        src="{{ '/images/ReTA.pdf' | relative_url }}"
-        alt="Overview of the ReTA framework"
-      >
+        <a href="https://arxiv.org/pdf/2609.01839" target="_blank" rel="noopener">
+          <img
+            src={{ '/images/ReTA.png' | relative_url }}"
+            alt="Overview of the ReTA framework"
+          >
+        </a>
     </div>
 
     <div class="selected-research__content">
