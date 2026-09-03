@@ -42,17 +42,30 @@
 
 
 
+<style>
+/* =========================================================
+   Selected Research
+   Layout based on https://zhuofeng-li.github.io/
+   ========================================================= */
+
 .selected-pubs {
   width: 100%;
   margin: 1.25rem 0 0;
 }
 
+/*
+ * Desktop layout:
+ * 155px left column, including 15px padding on each side
+ * 620px right column
+ */
 .selected-pub {
   display: grid;
-  grid-template-columns: 16.666667% 66.666667%;
+  grid-template-columns: 155px minmax(0, 1fr);
   align-items: start;
 
-  margin: 0 -15px 1rem;
+  width: 775px;
+  max-width: 100%;
+  margin: 0 0 16px;
   padding: 0;
 }
 
@@ -63,18 +76,25 @@
   padding: 0 15px;
 }
 
+/* -------------------------
+   Venue badge
+   ------------------------- */
+
 .selected-pub__badge {
   box-sizing: border-box;
   display: block;
-  width: 100%;
 
+  width: 125px;
+  height: 18px;
   margin: 4px 0 8px;
   padding: 3px 5px;
 
   color: #fff;
   background: #b509ac;
+  border: 0;
   border-radius: 4px;
 
+  font-family: inherit;
   font-size: 12px;
   font-weight: 700;
   line-height: 12px;
@@ -82,9 +102,24 @@
   white-space: nowrap;
 }
 
+/* -------------------------
+   Publication thumbnail
+   Both images: 125 × 42px
+   ------------------------- */
+
+.selected-pub__figure {
+  display: block;
+  width: 125px;
+  height: 42px;
+  margin: 0;
+  padding: 0;
+  line-height: 0;
+  text-decoration: none;
+}
+
 .selected-pub__thumbnail {
-  width: 100%;
-  aspect-ratio: 3 / 1;
+  width: 125px;
+  height: 42px;
   overflow: hidden;
 
   background: #fff;
@@ -96,9 +131,12 @@
 
 .page__content .selected-pub__thumbnail img {
   display: block;
-  width: 100%;
-  height: 100%;
-  margin: 0;
+
+  width: 125px !important;
+  height: 42px !important;
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
 
   border: 0;
   border-radius: 4px;
@@ -107,46 +145,53 @@
   object-position: center;
 }
 
-.page__content .selected-pub__thumbnail .selected-pub__image--hsnpl {
+/*
+ * HSNPL is much taller than ReTA.
+ * Show its upper portion in the small preview.
+ */
+.page__content
+.selected-pub__thumbnail
+.selected-pub__image--hsnpl {
   object-position: center top;
 }
 
-.page__content .selected-pub__title {
+/* -------------------------
+   Publication information
+   ------------------------- */
+
+.page__content .selected-pub__title,
+.page__content .selected-pub__authors,
+.page__content .selected-pub__venue {
   margin: 0;
   padding: 0;
 
   color: #111;
   font-family: inherit;
-  font-size: 1em !important;
-  font-weight: 600;
-  line-height: 1.5;
+  font-size: 16px !important;
+  line-height: 24px;
 }
 
-.page__content .selected-pub__authors {
-  margin: 0;
-  padding: 0;
+.page__content .selected-pub__title {
+  font-weight: 600;
+}
 
-  color: #222;
-  font-size: 1em;
+.page__content .selected-pub__authors,
+.page__content .selected-pub__venue {
   font-weight: 400;
-  line-height: 1.5;
 }
 
 .selected-pub__me {
+  font-style: normal;
+  font-weight: 400;
   text-decoration: underline;
+  text-decoration-thickness: 1px;
   text-underline-offset: 2px;
 }
 
-.page__content .selected-pub__venue {
-  margin: 0;
-  padding: 0;
+/* -------------------------
+   arXiv/GitHub/DOI badges
+   ------------------------- */
 
-  color: #222;
-  font-size: 1em;
-  line-height: 1.5;
-}
-
-/* Shields badges */
 .selected-pub__links {
   display: flex;
   flex-wrap: wrap;
@@ -154,28 +199,48 @@
   gap: 4px;
 
   min-height: 24px;
-  margin-top: 0;
+  margin: 0;
+  padding: 0;
 }
 
 .selected-pub__links a {
   display: inline-flex;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+
   line-height: 0;
   text-decoration: none;
 }
 
 .page__content .selected-pub__links img {
   display: block;
-  width: auto;
-  height: 20px;
-  margin: 0;
+
+  width: auto !important;
+  height: 20px !important;
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+
   border: 0;
   border-radius: 0;
 }
 
-@media (max-width: 575px) {
+.selected-pub__links a:hover {
+  opacity: 0.85;
+}
+
+/* -------------------------
+   Mobile layout
+   ------------------------- */
+
+@media (max-width: 800px) {
   .selected-pub {
     display: block;
-    margin: 0 0 1.5rem;
+
+    width: 100%;
+    max-width: none;
+    margin: 0 0 28px;
   }
 
   .selected-pub__media,
@@ -185,7 +250,23 @@
   }
 
   .selected-pub__media {
-    max-width: 220px;
-    margin-bottom: 0.8rem;
+    width: 220px;
+    margin-bottom: 12px;
+  }
+
+  .selected-pub__badge {
+    width: 220px;
+  }
+
+  .selected-pub__figure,
+  .selected-pub__thumbnail {
+    width: 220px;
+    height: 74px;
+  }
+
+  .page__content .selected-pub__thumbnail img {
+    width: 220px !important;
+    height: 74px !important;
   }
 }
+</style>
