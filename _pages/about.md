@@ -18,71 +18,135 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
 
 ## Selected Research
 
-<div class="selected-research">
+<div class="selected-publications">
 
-  <article class="selected-research__item">
-    <div class="selected-research__venue">
-      EMNLP 2026 Main Conference
-    </div>
-
-    <div class="selected-research__body">
-      <div class="selected-research__figure">
-        <a href="https://arxiv.org/pdf/2609.01839"
-           target="_blank"
-           rel="noopener">
-          <img
-            src="{{ '/images/ReTA.png' | relative_url }}"
-            alt="Overview of the ReTA framework"
-          >
-        </a>
+  <!-- ReTA -->
+  <article class="selected-publication">
+    <div class="selected-publication__media">
+      <div class="selected-publication__venue">
+        EMNLP 2026 Main
       </div>
 
-      <div class="selected-research__content">
-        <h3 class="selected-research__title">
-          Import What You Need: Learning When and How to Augment EHR Graphs with External Knowledge
-        </h3>
+      <a
+        class="selected-publication__figure"
+        href="https://arxiv.org/pdf/2609.01839"
+        target="_blank"
+        rel="noopener"
+      >
+        <img
+          src="{{ '/images/ReTA.png' | relative_url }}"
+          alt="Overview of the ReTA framework"
+        >
+      </a>
+    </div>
 
-        <p class="selected-research__description">
-          Designed an RL router that chooses feature enrichment, structural expansion, or skipping at each step using history-aware context and model uncertainty. Combined paired-reward training and decoupled encoders with gated fusion to improve predictive reliability and efficiency, with robust transfer across datasets and knowledge sources.
-        </p>
+    <div class="selected-publication__details">
+      <h3 class="selected-publication__title">
+        <a
+          href="https://arxiv.org/abs/2609.01839"
+          target="_blank"
+          rel="noopener"
+        >
+          Import What You Need: Learning When and How to Augment EHR Graphs with External Knowledge
+        </a>
+      </h3>
+
+      <p class="selected-publication__authors">
+        <strong>Chen Chen</strong>, Mohsen Nayebi Kerdabadi,
+        Dongjie Wang, Mei Liu, Zijun Yao
+      </p>
+
+      <p class="selected-publication__meta">
+        <em>EMNLP 2026 Main Conference</em>, 2026
+      </p>
+
+      <div class="selected-publication__links">
+        <a
+          class="publication-button publication-button--arxiv"
+          href="https://arxiv.org/abs/2609.01839"
+          target="_blank"
+          rel="noopener"
+        >
+          arXiv
+        </a>
+
+        <a
+          class="publication-button publication-button--github"
+          href="https://github.com/ChenC2002/ReTA"
+          target="_blank"
+          rel="noopener"
+        >
+          GitHub
+        </a>
       </div>
     </div>
   </article>
 
-  <article class="selected-research__item">
-    <div class="selected-research__venue">
-      Knowledge-Based Systems 2025
-    </div>
 
-    <div class="selected-research__body">
-      <div class="selected-research__figure">
-        <a href="https://doi.org/10.1016/j.knosys.2025.113215"
-           target="_blank"
-           rel="noopener">
-          <img
-            src="{{ '/images/HSNPL.png' | relative_url }}"
-            alt="Overview of the HSNPL framework"
-            loading="lazy"
-          >
-        </a>
+  <!-- HSNPL -->
+  <article class="selected-publication">
+    <div class="selected-publication__media">
+      <div class="selected-publication__venue">
+        KBS 2025
       </div>
 
-      <div class="selected-research__content">
-        <h3 class="selected-research__title">
-          Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media
-        </h3>
+      <a
+        class="selected-publication__figure"
+        href="https://arxiv.org/pdf/2407.09019"
+        target="_blank"
+        rel="noopener"
+      >
+        <img
+          src="{{ '/images/HSNPL.png' | relative_url }}"
+          alt="Overview of the HSNPL framework"
+          loading="lazy"
+        >
+      </a>
+    </div>
 
-        <p class="selected-research__description">
-          Combined prompt-derived semantic features, multi-level graph attention,
-          and subgraph contrastive learning to improve depression detection while
-          exposing interpretable feature- and group-level signals.
-        </p>
+    <div class="selected-publication__details">
+      <h3 class="selected-publication__title">
+        <a
+          href="https://arxiv.org/abs/2407.09019"
+          target="_blank"
+          rel="noopener"
+        >
+          Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media
+        </a>
+      </h3>
+
+      <p class="selected-publication__authors">
+        <strong>Chen Chen</strong>, Fenghuan Li,
+        Haopeng Chen, Yuankun Lin
+      </p>
+
+      <p class="selected-publication__meta">
+        <em>Knowledge-Based Systems</em>, 2025
+      </p>
+
+      <div class="selected-publication__links">
+        <a
+          class="publication-button publication-button--arxiv"
+          href="https://arxiv.org/abs/2407.09019"
+          target="_blank"
+          rel="noopener"
+        >
+          arXiv
+        </a>
+
+        <a
+          class="publication-button publication-button--paper"
+          href="https://doi.org/10.1016/j.knosys.2025.113215"
+          target="_blank"
+          rel="noopener"
+        >
+          Paper
+        </a>
       </div>
     </div>
   </article>
 
 </div>
-
 
 ## Publications
 
