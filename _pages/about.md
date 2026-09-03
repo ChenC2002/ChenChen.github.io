@@ -56,7 +56,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
     <div class="selected-research__image">
       <span class="selected-research__venue">KBS 2025</span>
       <img
-        src="{{ '/assets/HSNPL.pdf' | relative_url }}"
+        src="{{ '/assets/HSNPL.png' | relative_url }}"
         alt="Overview of the HSNPL framework"
         loading="lazy"
       >
