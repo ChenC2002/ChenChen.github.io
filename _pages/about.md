@@ -56,12 +56,12 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
       </div>
 
       <div class="selected-pub__authors">
-        <span class="selected-pub__me">Chen Chen</span>,
+        <span class="selected-pub__me">**Chen Chen**</span>,
         Mohsen Nayebi Kerdabadi, Dongjie Wang, Mei Liu, and Zijun Yao
       </div>
 
       <div class="selected-pub__venue">
-        <em>In EMNLP 2026 Main Conference</em>, Sep 2026
+        <em>EMNLP 2026 Main Conference</em>
       </div>
 
       <div class="selected-pub__links">
@@ -87,18 +87,6 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
           <img
             src="https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white"
             alt="GitHub"
-          >
-        </a>
-
-        <a
-          href="https://github.com/ChenC2002/ReTA"
-          target="_blank"
-          rel="noopener"
-          aria-label="ReTA GitHub stars"
-        >
-          <img
-            src="https://img.shields.io/github/stars/ChenC2002/ReTA?style=social"
-            alt="GitHub stars"
           >
         </a>
 
@@ -144,12 +132,12 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
       </div>
 
       <div class="selected-pub__authors">
-        <span class="selected-pub__me">Chen Chen</span>,
+        <span class="selected-pub__me">**Chen Chen**</span>,
         Fenghuan Li, Haopeng Chen, and Yuankun Lin
       </div>
 
       <div class="selected-pub__venue">
-        <em>In Knowledge-Based Systems</em>, Apr 2025
+        <em>In Knowledge-Based Systems 2025</em>
       </div>
 
       <div class="selected-pub__links">
@@ -167,20 +155,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
         </a>
 
         <a
-          href="https://doi.org/10.1016/j.knosys.2025.113215"
-          target="_blank"
-          rel="noopener"
-          aria-label="HSNPL published paper"
-        >
-          <img
-            src="https://img.shields.io/badge/Paper-DOI-FFCC99"
-            alt="Published paper"
-          >
-        </a>
-
-
-        <a
-          href="YOUR-HSNPL-GITHUB-URL"
+          href="https://github.com/ChenC2002/HSNPL-master"
           target="_blank"
           rel="noopener"
           aria-label="HSNPL GitHub repository"
@@ -190,8 +165,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
             alt="GitHub"
           >
         </a>
-        -->
-
+      
       </div>
     </div>
 
