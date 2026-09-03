@@ -42,150 +42,150 @@
 
 
 
-
-.selected-publications {
+.selected-pubs {
   width: 100%;
-  margin-top: 1rem;
+  margin: 1.25rem 0 0;
 }
 
-.selected-publication {
+.selected-pub {
   display: grid;
-  grid-template-columns: 245px minmax(0, 1fr);
-  gap: 1.5rem;
+  grid-template-columns: 16.666667% 66.666667%;
   align-items: start;
 
-  padding: 1.4rem 0;
-  border-bottom: 1px solid #e5e7eb;
+  margin: 0 -15px 1rem;
+  padding: 0;
 }
 
-.selected-publication:last-child {
-  border-bottom: 0;
+.selected-pub__media,
+.selected-pub__content {
+  box-sizing: border-box;
+  min-width: 0;
+  padding: 0 15px;
 }
 
-.selected-publication__media {
+.selected-pub__badge {
+  box-sizing: border-box;
+  display: block;
   width: 100%;
-}
 
-.selected-publication__venue {
-  padding: 0.35rem 0.7rem;
+  margin: 4px 0 8px;
+  padding: 3px 5px;
 
   color: #fff;
-  background: #174f9e;
-  border-radius: 6px 6px 0 0;
+  background: #b509ac;
+  border-radius: 4px;
 
-  font-size: 0.78em;
+  font-size: 12px;
   font-weight: 700;
-  line-height: 1.35;
+  line-height: 12px;
   text-align: center;
+  white-space: nowrap;
 }
 
-.selected-publication__figure {
-  display: block;
+.selected-pub__thumbnail {
+  width: 100%;
+  aspect-ratio: 3 / 1;
   overflow: hidden;
 
   background: #fff;
-  border: 1px solid #dfe3e8;
-  border-top: 0;
-  border-radius: 0 0 6px 6px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.07);
-  line-height: 0;
+  border-radius: 4px;
+  box-shadow:
+    0 2px 5px rgba(0, 0, 0, 0.16),
+    0 2px 10px rgba(0, 0, 0, 0.12);
 }
 
-.selected-publication__figure img {
+.page__content .selected-pub__thumbnail img {
   display: block;
   width: 100%;
-  height: auto;
+  height: 100%;
   margin: 0;
+
   border: 0;
+  border-radius: 4px;
+
+  object-fit: cover;
+  object-position: center;
 }
 
-.selected-publication__details {
-  min-width: 0;
+.page__content .selected-pub__thumbnail .selected-pub__image--hsnpl {
+  object-position: center top;
 }
 
-.page__content .selected-publication__title {
-  margin: 0 0 0.35rem;
+.page__content .selected-pub__title {
+  margin: 0;
   padding: 0;
 
+  color: #111;
   font-family: inherit;
   font-size: 1em !important;
-  font-weight: 700;
-  line-height: 1.4;
-}
-
-.selected-publication__title a {
-  color: inherit;
-  font-weight: inherit;
-  text-decoration: none;
-}
-
-.selected-publication__title a:hover {
-  color: #174f9e;
-  text-decoration: underline;
-}
-
-.page__content .selected-publication__authors {
-  margin: 0 0 0.25rem;
-  padding: 0;
-
-  font-size: 0.9em;
+  font-weight: 600;
   line-height: 1.5;
 }
 
-.page__content .selected-publication__meta {
-  margin: 0 0 0.55rem;
+.page__content .selected-pub__authors {
+  margin: 0;
   padding: 0;
 
-  font-size: 0.88em;
-  line-height: 1.45;
+  color: #222;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.5;
 }
 
-.selected-publication__links {
+.selected-pub__me {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.page__content .selected-pub__venue {
+  margin: 0;
+  padding: 0;
+
+  color: #222;
+  font-size: 1em;
+  line-height: 1.5;
+}
+
+/* Shields badges */
+.selected-pub__links {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.4rem;
+  align-items: center;
+  gap: 4px;
+
+  min-height: 24px;
+  margin-top: 0;
 }
 
-.publication-button {
-  display: inline-block;
-  padding: 0.22rem 0.58rem;
-  border-radius: 4px;
-
-  color: #fff !important;
-  font-size: 0.76em;
-  font-weight: 600;
-  line-height: 1.35;
-  text-decoration: none !important;
+.selected-pub__links a {
+  display: inline-flex;
+  line-height: 0;
+  text-decoration: none;
 }
 
-.publication-button:hover {
-  opacity: 0.86;
+.page__content .selected-pub__links img {
+  display: block;
+  width: auto;
+  height: 20px;
+  margin: 0;
+  border: 0;
+  border-radius: 0;
 }
 
-.publication-button--arxiv {
-  background: #b31b1b;
-}
-
-.publication-button--github {
-  background: #24292f;
-}
-
-.publication-button--paper {
-  background: #b9782d;
-}
-
-/* 手机端 */
-@media (max-width: 700px) {
-  .selected-publication {
-    grid-template-columns: 1fr;
-    gap: 0.9rem;
+@media (max-width: 575px) {
+  .selected-pub {
+    display: block;
+    margin: 0 0 1.5rem;
   }
 
-  .selected-publication__media {
-    max-width: 360px;
+  .selected-pub__media,
+  .selected-pub__content {
+    width: 100%;
+    padding: 0;
   }
 
-  .page__content .selected-publication__title {
-    font-size: 1em !important;
+  .selected-pub__media {
+    max-width: 220px;
+    margin-bottom: 0.8rem;
   }
 }
