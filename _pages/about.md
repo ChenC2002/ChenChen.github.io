@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. student in Computer Science at the University of Kansas, advised by [Dr. Zijun Yao](https://ittc.ku.edu/~zyao/).
 
-My research focuses on LLM post-training, self-improving agents, verifiable reasoning, and graph learning, to build reliable AI systems for healthcare.
+My research focuses on LLM Post-Training, Agent Engineering, and Graph Learning, to build reliable AI systems for healthcare.
 
 Previously, I received my B.E. in Artificial Intelligence from Guangdong University of Technology, where I worked on interpretable graph learning for social media analysis with [Dr. Fenghuan Li](https://dblp.org/pid/07/10130.html).
 
