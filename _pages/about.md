@@ -32,15 +32,15 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
     </div>
 
     <div class="selected-research__content">
-      <h3>
+      <h3 class="selected-research__title">
         <a href="https://arxiv.org/abs/2609.01839">
           Import What You Need: Learning When and How to Augment EHR Graphs with External Knowledge
         </a>
       </h3>
 
-      <ul class="selected-research__impact">
+      <p class="selected-research__description">
         Designed an RL router that chooses feature enrichment, structural expansion, or skipping at each step using history-aware context and model uncertainty. Combined paired-reward training and decoupled encoders with gated fusion to improve predictive reliability and efficiency, with robust transfer across datasets and knowledge sources.
-      </ul>
+      </p>
     </div>
   </article>
 
@@ -57,15 +57,15 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
     </div>
 
     <div class="selected-research__content">
-      <h3>
+      <h3 class="selected-research__title">
         <a href="https://doi.org/10.1016/j.knosys.2025.113215">
           Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media
         </a>
       </h3>
 
-      <ul class="selected-research__impact">
+      <p class="selected-research__description">
         Integrated prompt-derived semantic features with multi-level graph attention and self-supervised contrastive learning over heterogeneous data, outperforming prior methods while exposing interpretable feature- and group-level signals.
-      </ul>
+      </p>
     </div>
   </article>
 
