@@ -21,47 +21,62 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
 <div class="selected-research">
 
   <article class="selected-research__item">
-    <div class="selected-research__image">
-      <span class="selected-research__venue">EMNLP 2026 Main Conference</span>
-        <a href="https://arxiv.org/pdf/2609.01839" target="_blank" rel="noopener">
+    <div class="selected-research__venue">
+      EMNLP 2026 Main Conference
+    </div>
+
+    <div class="selected-research__body">
+      <div class="selected-research__figure">
+        <a href="https://arxiv.org/pdf/2609.01839"
+           target="_blank"
+           rel="noopener">
           <img
-            src="https://chenc2002.github.io/ChenChen.github.io/images/ReTA.png"
+            src="{{ '/images/ReTA.png' | relative_url }}"
             alt="Overview of the ReTA framework"
           >
         </a>
-    </div>
+      </div>
 
-    <div class="selected-research__content">
-      <h3 class="selected-research__title">
-        Import What You Need: Learning When and How to Augment EHR Graphs with External Knowledge
-      </h3>
+      <div class="selected-research__content">
+        <h3 class="selected-research__title">
+          Import What You Need: Learning When and How to Augment EHR Graphs with External Knowledge
+        </h3>
 
-      <p class="selected-research__description">
-        Designed an RL router that chooses feature enrichment, structural expansion, or skipping at each step using history-aware context and model uncertainty. Combined paired-reward training and decoupled encoders with gated fusion to improve predictive reliability and efficiency, with robust transfer across datasets and knowledge sources.
-      </p>
+        <p class="selected-research__description">
+          Designed an RL router that chooses feature enrichment, structural expansion, or skipping at each step using history-aware context and model uncertainty. Combined paired-reward training and decoupled encoders with gated fusion to improve predictive reliability and efficiency, with robust transfer across datasets and knowledge sources.
+        </p>
+      </div>
     </div>
   </article>
 
+
   <article class="selected-research__item">
-    <div class="selected-research__image">
-      <span class="selected-research__venue">Knowledge-Based Systems 2025</span>
-      <a href="https://doi.org/10.1016/j.knosys.2025.113215" target="_blank" rel="noopener">
+    <div class="selected-research__venue">
+      Knowledge-Based Systems 2025
+    </div>
+
+    <div class="selected-research__body">
+      <div class="selected-research__figure">
+        <a href="https://doi.org/10.1016/j.knosys.2025.113215"
+           target="_blank"
+           rel="noopener">
           <img
-            src="https://chenc2002.github.io/ChenChen.github.io/images/HSNPL.png"
+            src="{{ '/images/HSNPL.png' | relative_url }}"
             alt="Overview of the HSNPL framework"
             loading="lazy"
           >
         </a>
-    </div>
+      </div>
 
-    <div class="selected-research__content">
-      <h3 class="selected-research__title">
-        Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media
-      </h3>
+      <div class="selected-research__content">
+        <h3 class="selected-research__title">
+          Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media
+        </h3>
 
-      <p class="selected-research__description">
-        Integrated prompt-derived semantic features with multi-level graph attention and self-supervised contrastive learning over heterogeneous data, outperforming prior methods while exposing interpretable feature- and group-level signals.
-      </p>
+        <p class="selected-research__description">
+          Integrated prompt-derived semantic features with multi-level graph attention and self-supervised contrastive learning over heterogeneous data, outperforming prior methods while exposing interpretable feature- and group-level signals.
+        </p>
+      </div>
     </div>
   </article>
 
