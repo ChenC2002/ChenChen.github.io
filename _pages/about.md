@@ -39,7 +39,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
       </h3>
 
       <p class="selected-research__description">
-        Designed an RL router that chooses feature enrichment, structural expansion, or skipping at each step using history-aware context and model uncertainty. Combined paired-reward training and decoupled encoders with gated fusion to improve predictive reliability and efficiency, with robust transfer across datasets and knowledge sources.
+        # Designed an RL router that chooses feature enrichment, structural expansion, or skipping at each step using history-aware context and model uncertainty. Combined paired-reward training and decoupled encoders with gated fusion to improve predictive reliability and efficiency, with robust transfer across datasets and knowledge sources.
       </p>
     </div>
   </article>
