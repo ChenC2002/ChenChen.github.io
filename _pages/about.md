@@ -22,7 +22,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
 
   <article class="selected-research__item">
     <div class="selected-research__image">
-      <span class="selected-research__venue">EMNLP 2026</span>
+      <span class="selected-research__venue">EMNLP 2026 Main Conference</span>
         <a href="https://arxiv.org/pdf/2609.01839" target="_blank" rel="noopener">
           <img
             src="https://chenc2002.github.io/ChenChen.github.io/images/ReTA.png"
@@ -38,17 +38,10 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
         </a>
       </h3>
 
-      <p class="selected-research__authors">
-        <strong>Chen Chen</strong>, Mohsen Nayebi Kerdabadi,
-        Dongjie Wang, Mei Liu, Zijun Yao
-      </p>
-
       <ul class="selected-research__impact">
         <li>
           <strong>Academic Impact:</strong>
-          ReTA introduces a budget-aware reinforcement learning framework that
-          decides when and how to augment each EHR visit with external knowledge,
-          improving clinical prediction while avoiding unnecessary graph expansion.
+          Designed an RL router that chooses feature enrichment, structural expansion, or skipping at each step using history-aware context and model uncertainty. Combined paired-reward training and decoupled encoders with gated fusion to improve predictive reliability and efficiency, with robust transfer across datasets and knowledge sources.
         </li>
       </ul>
     </div>
@@ -71,17 +64,9 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
         </a>
       </h3>
 
-      <p class="selected-research__authors">
-        <strong>Chen Chen</strong>, Fenghuan Li,
-        Haopeng Chen, Yuankun Lin
-      </p>
-
       <ul class="selected-research__impact">
         <li>
-          <strong>Academic Impact:</strong>
-          HSNPL combines symptom-oriented prompt learning, heterogeneous graph
-          attention, and subgraph contrastive learning to improve both predictive
-          performance and interpretability for depression detection on social media.
+          Integrated prompt-derived semantic features with multi-level graph attention and self-supervised contrastive learning over heterogeneous data, outperforming prior methods while exposing interpretable feature- and group-level signals.
         </li>
       </ul>
     </div>
