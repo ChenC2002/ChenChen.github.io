@@ -25,7 +25,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
       <span class="selected-research__venue">EMNLP 2026</span>
         <a href="https://arxiv.org/pdf/2609.01839" target="_blank" rel="noopener">
           <img
-            src={{ '/images/ReTA.png' | relative_url }}"
+            src="https://chenc2002.github.io/ChenChen.github.io/images/ReTA.png"
             alt="Overview of the ReTA framework"
           >
         </a>
@@ -58,7 +58,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
     <div class="selected-research__image">
       <span class="selected-research__venue">KBS 2025</span>
       <img
-        src="{{ '/images/HSNPL.png' | relative_url }}"
+        src="https://chenc2002.github.io/ChenChen.github.io/images/HSNPL.png"
         alt="Overview of the HSNPL framework"
         loading="lazy"
       >
