@@ -18,30 +18,39 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
 
 ## Selected Research
 
+<h2>Selected Research</h2>
+
 <div class="selected-pubs">
 
-  <!-- ReTA -->
+  <!-- =====================================================
+       ReTA
+       ===================================================== -->
+
   <article class="selected-pub">
+
     <div class="selected-pub__media">
       <div class="selected-pub__badge">
         EMNLP 2026
       </div>
 
       <a
+        class="selected-pub__figure"
         href="https://arxiv.org/abs/2609.01839"
         target="_blank"
         rel="noopener"
+        aria-label="View ReTA on arXiv"
       >
         <div class="selected-pub__thumbnail">
           <img
             src="{{ '/images/ReTA.png' | relative_url }}"
-            alt="ReTA framework"
+            alt="Overview of the ReTA framework"
           >
         </div>
       </a>
     </div>
 
     <div class="selected-pub__content">
+
       <div class="selected-pub__title">
         Import What You Need: Learning When and How to Augment EHR Graphs with External Knowledge
       </div>
@@ -56,10 +65,12 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
       </div>
 
       <div class="selected-pub__links">
+
         <a
           href="https://arxiv.org/abs/2609.01839"
           target="_blank"
           rel="noopener"
+          aria-label="ReTA arXiv"
         >
           <img
             src="https://img.shields.io/badge/arXiv-b31b1b.svg?logo=arXiv"
@@ -71,6 +82,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
           href="https://github.com/ChenC2002/ReTA"
           target="_blank"
           rel="noopener"
+          aria-label="ReTA GitHub repository"
         >
           <img
             src="https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white"
@@ -82,34 +94,43 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
           href="https://github.com/ChenC2002/ReTA"
           target="_blank"
           rel="noopener"
+          aria-label="ReTA GitHub stars"
         >
           <img
             src="https://img.shields.io/github/stars/ChenC2002/ReTA?style=social"
             alt="GitHub stars"
           >
         </a>
+
       </div>
     </div>
+
   </article>
 
 
-  <!-- HSNPL -->
+  <!-- =====================================================
+       HSNPL
+       ===================================================== -->
+
   <article class="selected-pub">
+
     <div class="selected-pub__media">
       <div class="selected-pub__badge">
         KBS 2025
       </div>
 
       <a
+        class="selected-pub__figure"
         href="https://arxiv.org/abs/2407.09019"
         target="_blank"
         rel="noopener"
+        aria-label="View HSNPL on arXiv"
       >
         <div class="selected-pub__thumbnail">
           <img
             class="selected-pub__image--hsnpl"
             src="{{ '/images/HSNPL.png' | relative_url }}"
-            alt="HSNPL framework"
+            alt="Overview of the HSNPL framework"
             loading="lazy"
           >
         </div>
@@ -117,6 +138,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
     </div>
 
     <div class="selected-pub__content">
+
       <div class="selected-pub__title">
         Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media
       </div>
@@ -131,10 +153,12 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
       </div>
 
       <div class="selected-pub__links">
+
         <a
           href="https://arxiv.org/abs/2407.09019"
           target="_blank"
           rel="noopener"
+          aria-label="HSNPL arXiv"
         >
           <img
             src="https://img.shields.io/badge/arXiv-b31b1b.svg?logo=arXiv"
@@ -146,6 +170,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
           href="https://doi.org/10.1016/j.knosys.2025.113215"
           target="_blank"
           rel="noopener"
+          aria-label="HSNPL published paper"
         >
           <img
             src="https://img.shields.io/badge/Paper-DOI-FFCC99"
@@ -153,10 +178,12 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
           >
         </a>
 
+
         <a
           href="YOUR-HSNPL-GITHUB-URL"
           target="_blank"
           rel="noopener"
+          aria-label="HSNPL GitHub repository"
         >
           <img
             src="https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white"
@@ -164,8 +191,10 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
           >
         </a>
         -->
+
       </div>
     </div>
+
   </article>
 
 </div>
