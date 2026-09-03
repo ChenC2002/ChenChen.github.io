@@ -24,7 +24,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
     <div class="selected-research__image">
       <span class="selected-research__venue">EMNLP 2026</span>
       <img
-        src="{{ '/images/ReTA.pdf' | relative_url }}"
+        src="{{ '/ReTA.pdf' | relative_url }}"
         alt="Overview of the ReTA framework"
       >
     </div>
@@ -56,7 +56,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
     <div class="selected-research__image">
       <span class="selected-research__venue">KBS 2025</span>
       <img
-        src="{{ '/images/HSNPL.png' | relative_url }}"
+        src="{{ '/HSNPL.png' | relative_url }}"
         alt="Overview of the HSNPL framework"
         loading="lazy"
       >
