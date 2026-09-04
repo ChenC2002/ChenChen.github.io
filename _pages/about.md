@@ -26,6 +26,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
   <article class="selected-pub">
 
     <div class="selected-pub__media">
+
       <div class="selected-pub__badge">
         EMNLP 2026
       </div>
@@ -44,6 +45,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
           >
         </div>
       </a>
+
     </div>
 
     <div class="selected-pub__content">
@@ -88,6 +90,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
         </a>
 
       </div>
+
     </div>
 
   </article>
@@ -99,6 +102,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
   <article class="selected-pub">
 
     <div class="selected-pub__media">
+
       <div class="selected-pub__badge">
         KBS 2025
       </div>
@@ -112,13 +116,13 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
       >
         <div class="selected-pub__thumbnail">
           <img
-            class="selected-pub__image--hsnpl"
             src="{{ '/images/HSNPL.png' | relative_url }}"
             alt="Overview of the HSNPL framework"
             loading="lazy"
           >
         </div>
       </a>
+
     </div>
 
     <div class="selected-pub__content">
@@ -163,6 +167,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
         </a>
 
       </div>
+
     </div>
 
   </article>
@@ -174,6 +179,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
   <article class="selected-pub">
 
     <div class="selected-pub__media">
+
       <div class="selected-pub__badge">
         ACL 2026
       </div>
@@ -187,13 +193,13 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
       >
         <div class="selected-pub__thumbnail">
           <img
-            class="selected-pub__image--medco"
             src="{{ '/images/MedCo.png' | relative_url }}"
             alt="Overview of the MedCo framework"
             loading="lazy"
           >
         </div>
       </a>
+
     </div>
 
     <div class="selected-pub__content">
@@ -209,7 +215,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
       </div>
 
       <div class="selected-pub__venue">
-        <em>Annual Meeting of the Association for Computational Linguistics (ACL) Main Conference, 2026.</em>
+        <em>The 64th Annual Meeting of the Association for Computational Linguistics (ACL) Main Conference, 2026.</em>
       </div>
 
       <div class="selected-pub__links">
@@ -239,19 +245,23 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
         </a>
 
       </div>
+
     </div>
 
   </article>
 
 </div>
 
----
+<hr>
 
 <!--
+Temporarily hidden:
+
 A. H. Moghaddam, M. N. Kerdabadi, C. Chen, D. Wang, and Z. Yao.
 "RASPER: Reward-Aligned Summarization of Clinical Notes for EHR Outcome Prediction."
-The Conference on Empirical Methods in Natural Language Processing (EMNLP) Main Conference, 2026.
+EMNLP 2026 Main Conference.
 -->
+
 
 
 
