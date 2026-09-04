@@ -97,6 +97,72 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
 
 
   <!-- =====================================================
+       MedCo
+       ===================================================== -->
+  <article class="selected-pub">
+
+    <div class="selected-pub__media">
+
+      <div class="selected-pub__badge">
+        ACL 2026
+      </div>
+
+      <a
+        class="selected-pub__figure"
+        href="https://arxiv.org/abs/2604.13331"
+        target="_blank"
+        rel="noopener"
+        aria-label="View MedCo on arXiv"
+      >
+        <div class="selected-pub__thumbnail">
+          <img
+            src="{{ '/images/MedCo.png' | relative_url }}"
+            alt="Overview of the MedCo framework"
+            loading="lazy"
+          >
+        </div>
+      </a>
+
+    </div>
+
+    <div class="selected-pub__content">
+
+      <div class="selected-pub__title">
+        Text-Attributed Knowledge Graph Enrichment with Large Language Models for Medical Concept Representation
+      </div>
+
+      <div class="selected-pub__authors">
+        M. N. Kerdabadi, A. H. Moghaddam,
+        <strong>C. Chen</strong>,
+        D. Wang, and Z. Yao
+      </div>
+
+      <div class="selected-pub__venue">
+        <em>Annual Meeting of the Association for Computational Linguistics (ACL) Main Conference, 2026.</em>
+      </div>
+
+      <div class="selected-pub__links">
+
+        <a
+          href="https://arxiv.org/abs/2604.13331"
+          target="_blank"
+          rel="noopener"
+          aria-label="MedCo arXiv"
+        >
+          <img
+            src="https://img.shields.io/badge/arXiv-b31b1b.svg?logo=arXiv"
+            alt="arXiv"
+          >
+        </a>
+
+      </div>
+
+    </div>
+
+  </article>
+
+
+ <!-- =====================================================
        HSNPL
        ===================================================== -->
   <article class="selected-pub">
@@ -163,72 +229,6 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
           <img
             src="https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white"
             alt="GitHub"
-          >
-        </a>
-
-      </div>
-
-    </div>
-
-  </article>
-
-
-  <!-- =====================================================
-       MedCo
-       ===================================================== -->
-  <article class="selected-pub">
-
-    <div class="selected-pub__media">
-
-      <div class="selected-pub__badge">
-        ACL 2026
-      </div>
-
-      <a
-        class="selected-pub__figure"
-        href="https://arxiv.org/abs/2604.13331"
-        target="_blank"
-        rel="noopener"
-        aria-label="View MedCo on arXiv"
-      >
-        <div class="selected-pub__thumbnail">
-          <img
-            src="{{ '/images/MedCo.png' | relative_url }}"
-            alt="Overview of the MedCo framework"
-            loading="lazy"
-          >
-        </div>
-      </a>
-
-    </div>
-
-    <div class="selected-pub__content">
-
-      <div class="selected-pub__title">
-        Text-Attributed Knowledge Graph Enrichment with Large Language Models for Medical Concept Representation
-      </div>
-
-      <div class="selected-pub__authors">
-        M. N. Kerdabadi, A. H. Moghaddam,
-        <strong>C. Chen</strong>,
-        D. Wang, and Z. Yao
-      </div>
-
-      <div class="selected-pub__venue">
-        <em>Annual Meeting of the Association for Computational Linguistics (ACL) Main Conference, 2026.</em>
-      </div>
-
-      <div class="selected-pub__links">
-
-        <a
-          href="https://arxiv.org/abs/2604.13331"
-          target="_blank"
-          rel="noopener"
-          aria-label="MedCo arXiv"
-        >
-          <img
-            src="https://img.shields.io/badge/arXiv-b31b1b.svg?logo=arXiv"
-            alt="arXiv"
           >
         </a>
 
