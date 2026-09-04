@@ -51,12 +51,12 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
       </div>
 
       <div class="selected-pub__authors">
-        <strong class="selected-pub__me">Chen Chen</strong>,
-        Mohsen Nayebi Kerdabadi, Dongjie Wang, Mei Liu, and Zijun Yao
+        <strong>C. Chen</strong>,
+        M. N. Kerdabadi, D. Wang, M. Liu, and Z. Yao
       </div>
 
       <div class="selected-pub__venue">
-        <em>EMNLP 2026 Main Conference</em>
+        <em>The Conference on Empirical Methods in Natural Language Processing (EMNLP) Main Conference, 2026.</em>
       </div>
 
       <div class="selected-pub__links">
@@ -122,8 +122,8 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
       </div>
 
       <div class="selected-pub__authors">
-        <strong class="selected-pub__me">Chen Chen</strong>,
-        Fenghuan Li, Haopeng Chen, and Yuankun Lin
+        <strong>C. Chen</strong>,
+        F. Li, H. Chen, and Y. Lin.
       </div>
 
       <div class="selected-pub__venue">
