@@ -215,7 +215,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
       </div>
 
       <div class="selected-pub__venue">
-        <em>The 64th Annual Meeting of the Association for Computational Linguistics (ACL) Main Conference, 2026.</em>
+        <em>Annual Meeting of the Association for Computational Linguistics (ACL) Main Conference, 2026.</em>
       </div>
 
       <div class="selected-pub__links">
@@ -229,18 +229,6 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
           <img
             src="https://img.shields.io/badge/arXiv-b31b1b.svg?logo=arXiv"
             alt="arXiv"
-          >
-        </a>
-
-        <a
-          href="https://aclanthology.org/2026.acl-long.753/"
-          target="_blank"
-          rel="noopener"
-          aria-label="MedCo ACL Anthology"
-        >
-          <img
-            src="https://img.shields.io/badge/ACL-Anthology-2f6f9f"
-            alt="ACL Anthology"
           >
         </a>
 
