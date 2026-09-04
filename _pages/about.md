@@ -18,14 +18,9 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
 
 ## Selected Research
 
-<h2>Selected Research</h2>
-
 <div class="selected-pubs">
 
-  <!-- =====================================================
-       ReTA
-       ===================================================== -->
-
+  <!-- ReTA -->
   <article class="selected-pub">
 
     <div class="selected-pub__media">
@@ -56,7 +51,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
       </div>
 
       <div class="selected-pub__authors">
-        <span class="selected-pub__me">**Chen Chen**</span>,
+        <strong class="selected-pub__me">Chen Chen</strong>,
         Mohsen Nayebi Kerdabadi, Dongjie Wang, Mei Liu, and Zijun Yao
       </div>
 
@@ -65,7 +60,6 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
       </div>
 
       <div class="selected-pub__links">
-
         <a
           href="https://arxiv.org/abs/2609.01839"
           target="_blank"
@@ -89,17 +83,13 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
             alt="GitHub"
           >
         </a>
-
       </div>
-    </div>
 
+    </div>
   </article>
 
 
-  <!-- =====================================================
-       HSNPL
-       ===================================================== -->
-
+  <!-- HSNPL -->
   <article class="selected-pub">
 
     <div class="selected-pub__media">
@@ -132,16 +122,15 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
       </div>
 
       <div class="selected-pub__authors">
-        <span class="selected-pub__me">**Chen Chen**</span>,
+        <strong class="selected-pub__me">Chen Chen</strong>,
         Fenghuan Li, Haopeng Chen, and Yuankun Lin
       </div>
 
       <div class="selected-pub__venue">
-        <em>In Knowledge-Based Systems 2025</em>
+        <em>Knowledge-Based Systems 2025</em>
       </div>
 
       <div class="selected-pub__links">
-
         <a
           href="https://arxiv.org/abs/2407.09019"
           target="_blank"
@@ -165,10 +154,9 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
             alt="GitHub"
           >
         </a>
-      
       </div>
-    </div>
 
+    </div>
   </article>
 
 </div>
