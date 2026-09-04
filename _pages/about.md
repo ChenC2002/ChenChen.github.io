@@ -20,7 +20,9 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
 
 <div class="selected-pubs">
 
-  <!-- ReTA -->
+  <!-- =====================================================
+       ReTA
+       ===================================================== -->
   <article class="selected-pub">
 
     <div class="selected-pub__media">
@@ -60,6 +62,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
       </div>
 
       <div class="selected-pub__links">
+
         <a
           href="https://arxiv.org/abs/2609.01839"
           target="_blank"
@@ -83,13 +86,16 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
             alt="GitHub"
           >
         </a>
-      </div>
 
+      </div>
     </div>
+
   </article>
 
 
-  <!-- HSNPL -->
+  <!-- =====================================================
+       HSNPL
+       ===================================================== -->
   <article class="selected-pub">
 
     <div class="selected-pub__media">
@@ -123,7 +129,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
 
       <div class="selected-pub__authors">
         <strong>C. Chen</strong>,
-        F. Li, H. Chen, and Y. Lin.
+        F. Li, H. Chen, and Y. Lin
       </div>
 
       <div class="selected-pub__venue">
@@ -131,6 +137,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
       </div>
 
       <div class="selected-pub__links">
+
         <a
           href="https://arxiv.org/abs/2407.09019"
           target="_blank"
@@ -154,18 +161,97 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
             alt="GitHub"
           >
         </a>
+
+      </div>
+    </div>
+
+  </article>
+
+
+  <!-- =====================================================
+       MedCo
+       ===================================================== -->
+  <article class="selected-pub">
+
+    <div class="selected-pub__media">
+      <div class="selected-pub__badge">
+        ACL 2026
       </div>
 
+      <a
+        class="selected-pub__figure"
+        href="https://arxiv.org/abs/2604.13331"
+        target="_blank"
+        rel="noopener"
+        aria-label="View MedCo on arXiv"
+      >
+        <div class="selected-pub__thumbnail">
+          <img
+            class="selected-pub__image--medco"
+            src="{{ '/images/MedCo.png' | relative_url }}"
+            alt="Overview of the MedCo framework"
+            loading="lazy"
+          >
+        </div>
+      </a>
     </div>
+
+    <div class="selected-pub__content">
+
+      <div class="selected-pub__title">
+        Text-Attributed Knowledge Graph Enrichment with Large Language Models for Medical Concept Representation
+      </div>
+
+      <div class="selected-pub__authors">
+        M. N. Kerdabadi, A. H. Moghaddam,
+        <strong>C. Chen</strong>,
+        D. Wang, and Z. Yao
+      </div>
+
+      <div class="selected-pub__venue">
+        <em>Annual Meeting of the Association for Computational Linguistics (ACL) Main Conference, 2026.</em>
+      </div>
+
+      <div class="selected-pub__links">
+
+        <a
+          href="https://arxiv.org/abs/2604.13331"
+          target="_blank"
+          rel="noopener"
+          aria-label="MedCo arXiv"
+        >
+          <img
+            src="https://img.shields.io/badge/arXiv-b31b1b.svg?logo=arXiv"
+            alt="arXiv"
+          >
+        </a>
+
+        <a
+          href="https://aclanthology.org/2026.acl-long.753/"
+          target="_blank"
+          rel="noopener"
+          aria-label="MedCo ACL Anthology"
+        >
+          <img
+            src="https://img.shields.io/badge/ACL-Anthology-2f6f9f"
+            alt="ACL Anthology"
+          >
+        </a>
+
+      </div>
+    </div>
+
   </article>
 
 </div>
 
-----
+---
 
-+ A. H. Moghaddam, M. N. Kerdabadi, **C. Chen**, D. Wang, and Z. Yao. "RASPER: Reward-Aligned Summarization of Clinical Notes for EHR Outcome Prediction." *EMNLP 2026 Main Conference.*
-
-+ M. N. Kerdabadi, A. H. Moghaddam, **C. Chen**, D. Wang, and Z. Yao. [“Text-Attributed Knowledge Graph Enrichment with Large Language Models for Medical Concept Representation.”](https://aclanthology.org/2026.acl-long.753/) *ACL 2026 Main Conference.*
+<!--
+A. H. Moghaddam, M. N. Kerdabadi, C. Chen, D. Wang, and Z. Yao.
+"RASPER: Reward-Aligned Summarization of Clinical Notes for EHR Outcome Prediction."
+The Conference on Empirical Methods in Natural Language Processing (EMNLP) Main Conference, 2026.
+-->
 
 
 
