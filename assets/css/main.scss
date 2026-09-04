@@ -51,15 +51,19 @@
   margin-top: 1.25rem;
 }
 
-/* One publication row */
+/* =========================================================
+   Publication row
+   ========================================================= */
 
 .selected-pub {
   display: grid;
-  grid-template-columns: minmax(220px, 31%) minmax(0, 1fr);
+  grid-template-columns: 240px minmax(0, 1fr);
   align-items: start;
   gap: 2rem;
 
+  width: 100%;
   padding: 1.6rem 0;
+
   border-bottom: 1px solid #e5e7eb;
 }
 
@@ -72,15 +76,16 @@
 }
 
 /* =========================================================
-   Left column
+   Left image column
    ========================================================= */
 
 .selected-pub__media {
   width: 100%;
+  max-width: 240px;
   min-width: 0;
 }
 
-/* Pink venue box */
+/* Pink venue label above the figure */
 
 .selected-pub__badge {
   position: relative;
@@ -102,29 +107,39 @@
   text-align: center;
 }
 
-/* Figure link */
+/* Clickable figure */
 
 .selected-pub__figure {
   display: block;
+
+  margin: 0;
+  padding: 0;
+
   color: inherit;
   text-decoration: none;
+  border: 0;
 }
 
 /*
-  The frame follows the natural aspect ratio of each image.
-  There is no fixed height and no fixed aspect ratio.
+  The figure frame follows the original image ratio.
+  No fixed height, cropping, or artificial whitespace.
 */
 
 .selected-pub__thumbnail {
+  display: block;
+
   width: 100%;
   height: auto;
+  box-sizing: border-box;
   overflow: hidden;
   line-height: 0;
 
   background: #ffffff;
+
   border: 1px solid #d9dee5;
   border-top: 0;
   border-radius: 0 0 7px 7px;
+
   box-shadow: 0 5px 14px rgba(31, 41, 55, 0.1);
 }
 
@@ -133,26 +148,37 @@
 
   width: 100%;
   height: auto;
+  max-width: 100%;
+
   margin: 0;
+  padding: 0;
 
   border: 0;
 }
 
+/* Slight hover effect */
+
+.selected-pub__figure:hover .selected-pub__thumbnail {
+  box-shadow: 0 7px 18px rgba(31, 41, 55, 0.16);
+}
+
 /* =========================================================
-   Right column
+   Right content column
    ========================================================= */
 
 .selected-pub__content {
   min-width: 0;
-  padding-top: 0;
+  padding: 0;
 }
 
-/* Normal homepage font size, bold only */
+/* Paper title: normal homepage size, bold */
 
 .selected-pub__title {
   margin: 0 0 0.42rem;
+  padding: 0;
 
   color: #3d4146;
+
   font-size: 1rem;
   font-weight: 700;
   line-height: 1.35;
@@ -162,9 +188,12 @@
 
 .selected-pub__authors {
   margin: 0 0 0.28rem;
+  padding: 0;
 
   color: #4b4f54;
+
   font-size: 0.94rem;
+  font-weight: 400;
   line-height: 1.5;
 }
 
@@ -173,27 +202,36 @@
   font-weight: 700;
 }
 
-/* Publication venue */
+/* Conference or journal */
 
 .selected-pub__venue {
   margin: 0 0 0.62rem;
+  padding: 0;
 
   color: #4b4f54;
+
   font-size: 0.92rem;
   line-height: 1.45;
 }
 
-/* arXiv, GitHub and ACL buttons */
+/* =========================================================
+   Paper links
+   ========================================================= */
 
 .selected-pub__links {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   gap: 0.38rem;
+
+  margin: 0;
+  padding: 0;
 }
 
 .selected-pub__links a {
   display: inline-flex;
+  align-items: center;
+
   margin: 0;
   padding: 0;
 
@@ -206,11 +244,30 @@
 
   width: auto;
   height: 21px;
+
   margin: 0;
+  padding: 0;
+
+  border: 0;
 }
 
 /* =========================================================
-   Tablet and mobile
+   Tablet
+   ========================================================= */
+
+@media (max-width: 900px) {
+  .selected-pub {
+    grid-template-columns: 210px minmax(0, 1fr);
+    gap: 1.5rem;
+  }
+
+  .selected-pub__media {
+    max-width: 210px;
+  }
+}
+
+/* =========================================================
+   Mobile
    ========================================================= */
 
 @media (max-width: 760px) {
@@ -223,10 +280,18 @@
 
   .selected-pub__media {
     width: 100%;
-    max-width: 520px;
+    max-width: 240px;
   }
 
   .selected-pub__title {
     font-size: 1rem;
+  }
+
+  .selected-pub__authors {
+    font-size: 0.94rem;
+  }
+
+  .selected-pub__venue {
+    font-size: 0.92rem;
   }
 }
