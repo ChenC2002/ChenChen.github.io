@@ -240,7 +240,6 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
 
 </div>
 
-<hr>
 
 <!--
 Temporarily hidden:
@@ -249,8 +248,6 @@ A. H. Moghaddam, M. N. Kerdabadi, C. Chen, D. Wang, and Z. Yao.
 "RASPER: Reward-Aligned Summarization of Clinical Notes for EHR Outcome Prediction."
 EMNLP 2026 Main Conference.
 -->
-
-
 
 
 ## News
