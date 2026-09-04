@@ -41,7 +41,6 @@
 @import "print";
 
 
-
 /* =========================================================
    Selected publications
    ========================================================= */
@@ -51,26 +50,26 @@
 }
 .selected-pub {
   display: grid;
-  grid-template-columns: 170px minmax(0, 1fr);
+  grid-template-columns: 150px minmax(0, 1fr);
   align-items: start;
-  gap: 2rem;
+  gap: 1.5rem;
   width: 100%;
-  padding: 1.3rem 0;
+  padding: 1.2rem 0;
 }
 .selected-pub__media {
-  width: 170px;
+  width: 150px;
   min-width: 0;
 }
 /* Venue badge */
 .selected-pub__badge {
-  width: 170px;
+  width: 150px;
   box-sizing: border-box;
-  padding: 0.22rem 0.45rem;
+  padding: 0.2rem 0.4rem;
   color: #ffffff;
   background: #3d4a5c;
   border-radius: 5px;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.18);
-  font-size: 0.84rem;
+  font-size: 0.82rem;
   font-weight: 700;
   line-height: 1.3;
   text-align: center;
@@ -79,8 +78,8 @@
 /* Image link */
 .selected-pub__figure {
   display: block;
-  width: 170px;
-  margin-top: 0.5rem;
+  width: 150px;
+  margin-top: 0.45rem;
   color: inherit;
   text-decoration: none;
   border: 0;
@@ -89,8 +88,8 @@
 .selected-pub__thumbnail {
   display: block;
   box-sizing: border-box;
-  width: 170px;
-  padding: 3px;
+  width: 150px;
+  padding: 2px;
   background: #ffffff;
   border: 1px solid #e3e3e3;
   border-radius: 5px;
@@ -105,7 +104,7 @@
   display: block;
   width: 100%;
   height: auto;
-  max-height: 108px;
+  max-height: 100px;
   margin: 0;
   padding: 0;
   border: 0;
@@ -174,34 +173,34 @@
 /* Tablet */
 @media (max-width: 900px) {
   .selected-pub {
-    grid-template-columns: 150px minmax(0, 1fr);
-    gap: 1.4rem;
+    grid-template-columns: 135px minmax(0, 1fr);
+    gap: 1.2rem;
   }
   .selected-pub__media,
   .selected-pub__badge,
   .selected-pub__figure,
   .selected-pub__thumbnail {
-    width: 150px;
+    width: 135px;
   }
   .selected-pub__thumbnail img {
-    max-height: 96px;
+    max-height: 90px;
   }
 }
 /* Mobile */
 @media (max-width: 760px) {
   .selected-pub {
     grid-template-columns: 1fr;
-    gap: 1rem;
-    padding: 1.2rem 0;
+    gap: 0.9rem;
+    padding: 1.1rem 0;
   }
   .selected-pub__media,
   .selected-pub__badge,
   .selected-pub__figure,
   .selected-pub__thumbnail {
-    width: 170px;
+    width: 150px;
     max-width: 100%;
   }
   .selected-pub__thumbnail img {
-    max-height: 108px;
+    max-height: 100px;
   }
 }
