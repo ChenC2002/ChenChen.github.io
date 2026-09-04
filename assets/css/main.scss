@@ -51,11 +51,14 @@
   margin-top: 1.25rem;
 }
 
+/* One publication row */
+
 .selected-pub {
   display: grid;
   grid-template-columns: minmax(220px, 31%) minmax(0, 1fr);
   align-items: start;
   gap: 2rem;
+
   padding: 1.6rem 0;
   border-bottom: 1px solid #e5e7eb;
 }
@@ -68,16 +71,21 @@
   border-bottom: 0;
 }
 
-/* Left column */
+/* =========================================================
+   Left column
+   ========================================================= */
 
 .selected-pub__media {
   width: 100%;
   min-width: 0;
 }
 
+/* Pink venue box */
+
 .selected-pub__badge {
   position: relative;
   z-index: 2;
+
   width: 100%;
   box-sizing: border-box;
   padding: 0.42rem 0.75rem;
@@ -94,16 +102,24 @@
   text-align: center;
 }
 
+/* Figure link */
+
 .selected-pub__figure {
   display: block;
   color: inherit;
   text-decoration: none;
 }
 
+/*
+  The frame follows the natural aspect ratio of each image.
+  There is no fixed height and no fixed aspect ratio.
+*/
+
 .selected-pub__thumbnail {
   width: 100%;
-  aspect-ratio: 16 / 9;
+  height: auto;
   overflow: hidden;
+  line-height: 0;
 
   background: #ffffff;
   border: 1px solid #d9dee5;
@@ -114,37 +130,24 @@
 
 .selected-pub__thumbnail img {
   display: block;
+
   width: 100%;
-  height: 100%;
+  height: auto;
   margin: 0;
 
-  object-fit: cover;
-  object-position: center;
+  border: 0;
 }
 
-/*
-  HSNPL is close to a square image.
-  "contain" displays the complete figure instead of cropping it.
-*/
-.selected-pub__thumbnail .selected-pub__image--hsnpl {
-  object-fit: contain;
-  object-position: center;
-  background: #ffffff;
-}
-
-/* Keep the future MedCo image fully visible as well. */
-.selected-pub__thumbnail .selected-pub__image--medco {
-  object-fit: contain;
-  object-position: center;
-  background: #ffffff;
-}
-
-/* Right column */
+/* =========================================================
+   Right column
+   ========================================================= */
 
 .selected-pub__content {
   min-width: 0;
-  padding-top: 0.05rem;
+  padding-top: 0;
 }
+
+/* Normal homepage font size, bold only */
 
 .selected-pub__title {
   margin: 0 0 0.42rem;
@@ -155,8 +158,10 @@
   line-height: 1.35;
 }
 
+/* Authors */
+
 .selected-pub__authors {
-  margin-bottom: 0.28rem;
+  margin: 0 0 0.28rem;
 
   color: #4b4f54;
   font-size: 0.94rem;
@@ -168,13 +173,17 @@
   font-weight: 700;
 }
 
+/* Publication venue */
+
 .selected-pub__venue {
-  margin-bottom: 0.62rem;
+  margin: 0 0 0.62rem;
 
   color: #4b4f54;
   font-size: 0.92rem;
   line-height: 1.45;
 }
+
+/* arXiv, GitHub and ACL buttons */
 
 .selected-pub__links {
   display: flex;
@@ -185,27 +194,35 @@
 
 .selected-pub__links a {
   display: inline-flex;
+  margin: 0;
+  padding: 0;
+
   border: 0;
   text-decoration: none;
 }
 
 .selected-pub__links img {
   display: block;
+
   width: auto;
   height: 21px;
   margin: 0;
 }
 
-/* Tablet and mobile */
+/* =========================================================
+   Tablet and mobile
+   ========================================================= */
 
 @media (max-width: 760px) {
   .selected-pub {
     grid-template-columns: 1fr;
     gap: 1rem;
+
     padding: 1.4rem 0;
   }
 
   .selected-pub__media {
+    width: 100%;
     max-width: 520px;
   }
 
