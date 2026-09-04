@@ -50,26 +50,26 @@
 }
 .selected-pub {
   display: grid;
-  grid-template-columns: 250px minmax(0, 1fr);
+  grid-template-columns: 200px minmax(0, 1fr);
   align-items: start;
-  gap: 3rem;
+  gap: 2.25rem;
   width: 100%;
   padding: 1.4rem 0;
 }
 .selected-pub__media {
-  width: 250px;
+  width: 200px;
   min-width: 0;
 }
-/* Purple venue badge (reference-site style) */
+/* Purple venue badge */
 .selected-pub__badge {
-  width: 250px;
+  width: 200px;
   box-sizing: border-box;
-  padding: 0.28rem 0.65rem;
+  padding: 0.24rem 0.5rem;
   color: #ffffff;
   background: #8e2ca8;
   border-radius: 6px;
   box-shadow: 0 2px 6px rgba(60, 20, 80, 0.25);
-  font-size: 0.95rem;
+  font-size: 0.88rem;
   font-weight: 700;
   line-height: 1.3;
   text-align: center;
@@ -78,21 +78,18 @@
 /* Image link */
 .selected-pub__figure {
   display: block;
-  width: 250px;
-  margin-top: 0.6rem;
+  width: 200px;
+  margin-top: 0.55rem;
   color: inherit;
   text-decoration: none;
   border: 0;
 }
-/*
-  Framed thumbnail card: white padding, thin border, drop shadow.
-  Height follows the image's natural aspect ratio.
-*/
+/* Framed thumbnail card; height follows the image aspect ratio */
 .selected-pub__thumbnail {
   display: block;
   box-sizing: border-box;
-  width: 250px;
-  padding: 4px;
+  width: 200px;
+  padding: 3px;
   background: #ffffff;
   border: 1px solid #e3e3e3;
   border-radius: 6px;
@@ -173,14 +170,14 @@
 /* Tablet */
 @media (max-width: 900px) {
   .selected-pub {
-    grid-template-columns: 220px minmax(0, 1fr);
-    gap: 1.75rem;
+    grid-template-columns: 180px minmax(0, 1fr);
+    gap: 1.5rem;
   }
   .selected-pub__media,
   .selected-pub__badge,
   .selected-pub__figure,
   .selected-pub__thumbnail {
-    width: 220px;
+    width: 180px;
   }
 }
 /* Mobile */
@@ -194,7 +191,7 @@
   .selected-pub__badge,
   .selected-pub__figure,
   .selected-pub__thumbnail {
-    width: 250px;
+    width: 200px;
     max-width: 100%;
   }
 }
