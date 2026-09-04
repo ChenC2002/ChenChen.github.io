@@ -43,228 +43,173 @@
 
 
 /* =========================================================
-   Selected Research
-   Layout based on https://zhuofeng-li.github.io/
+   Selected publications
    ========================================================= */
 
 .selected-pubs {
   width: 100%;
-  margin: 1.25rem 0 0;
+  margin-top: 1.25rem;
 }
 
-/*
- * Desktop layout:
- * 155px left column, including 15px padding on each side
- * 620px right column
- */
 .selected-pub {
   display: grid;
-  grid-template-columns: 155px minmax(0, 1fr);
+  grid-template-columns: minmax(220px, 31%) minmax(0, 1fr);
   align-items: start;
-
-  width: 775px;
-  max-width: 100%;
-  margin: 0 0 16px;
-  padding: 0;
+  gap: 2rem;
+  padding: 1.6rem 0;
+  border-bottom: 1px solid #e5e7eb;
 }
 
-.selected-pub__media,
-.selected-pub__content {
-  box-sizing: border-box;
+.selected-pub:first-child {
+  padding-top: 0.5rem;
+}
+
+.selected-pub:last-child {
+  border-bottom: 0;
+}
+
+/* Left column */
+
+.selected-pub__media {
+  width: 100%;
   min-width: 0;
-  padding: 0 15px;
 }
-
-/* -------------------------
-   Venue badge
-   ------------------------- */
 
 .selected-pub__badge {
+  position: relative;
+  z-index: 2;
+  width: 100%;
   box-sizing: border-box;
-  display: block;
+  padding: 0.42rem 0.75rem;
 
-  width: 125px;
-  height: 18px;
-  margin: 4px 0 8px;
-  padding: 3px 5px;
+  color: #ffffff;
+  background: #c218a5;
 
-  color: #fff;
-  background: #b509ac;
-  border: 0;
-  border-radius: 4px;
+  border-radius: 7px 7px 0 0;
+  box-shadow: 0 3px 8px rgba(70, 30, 65, 0.18);
 
-  font-family: inherit;
-  font-size: 12px;
+  font-size: 0.92rem;
   font-weight: 700;
-  line-height: 12px;
+  line-height: 1.25;
   text-align: center;
-  white-space: nowrap;
 }
-
-/* -------------------------
-   Publication thumbnail
-   Both images: 125 × 42px
-   ------------------------- */
 
 .selected-pub__figure {
   display: block;
-  width: 125px;
-  height: 42px;
-  margin: 0;
-  padding: 0;
-  line-height: 0;
+  color: inherit;
   text-decoration: none;
 }
 
 .selected-pub__thumbnail {
-  width: 125px;
-  height: 42px;
+  width: 100%;
+  aspect-ratio: 16 / 9;
   overflow: hidden;
 
-  background: #fff;
-  border-radius: 4px;
-  box-shadow:
-    0 2px 5px rgba(0, 0, 0, 0.16),
-    0 2px 10px rgba(0, 0, 0, 0.12);
+  background: #ffffff;
+  border: 1px solid #d9dee5;
+  border-top: 0;
+  border-radius: 0 0 7px 7px;
+  box-shadow: 0 5px 14px rgba(31, 41, 55, 0.1);
 }
 
-.page__content .selected-pub__thumbnail img {
+.selected-pub__thumbnail img {
   display: block;
-
-  width: 125px !important;
-  height: 42px !important;
-  max-width: none !important;
-  margin: 0 !important;
-  padding: 0 !important;
-
-  border: 0;
-  border-radius: 4px;
+  width: 100%;
+  height: 100%;
+  margin: 0;
 
   object-fit: cover;
   object-position: center;
 }
 
 /*
- * HSNPL is much taller than ReTA.
- * Show its upper portion in the small preview.
- */
-.page__content
-.selected-pub__thumbnail
-.selected-pub__image--hsnpl {
-  object-position: center top;
+  HSNPL is close to a square image.
+  "contain" displays the complete figure instead of cropping it.
+*/
+.selected-pub__thumbnail .selected-pub__image--hsnpl {
+  object-fit: contain;
+  object-position: center;
+  background: #ffffff;
 }
 
-/* -------------------------
-   Publication information
-   ------------------------- */
-
-.page__content .selected-pub__title,
-.page__content .selected-pub__authors,
-.page__content .selected-pub__venue {
-  margin: 0;
-  padding: 0;
-
-  color: #111;
-  font-family: inherit;
-  font-size: 16px !important;
-  line-height: 24px;
+/* Keep the future MedCo image fully visible as well. */
+.selected-pub__thumbnail .selected-pub__image--medco {
+  object-fit: contain;
+  object-position: center;
+  background: #ffffff;
 }
 
-.page__content .selected-pub__title {
-  font-weight: 600;
+/* Right column */
+
+.selected-pub__content {
+  min-width: 0;
+  padding-top: 0.05rem;
 }
 
-.page__content .selected-pub__authors,
-.page__content .selected-pub__venue {
-  font-weight: 400;
+.selected-pub__title {
+  margin: 0 0 0.42rem;
+
+  color: #3d4146;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.35;
 }
 
-.selected-pub__me {
-  font-style: normal;
-  font-weight: 400;
-  text-decoration: underline;
-  text-decoration-thickness: 1px;
-  text-underline-offset: 2px;
+.selected-pub__authors {
+  margin-bottom: 0.28rem;
+
+  color: #4b4f54;
+  font-size: 0.94rem;
+  line-height: 1.5;
 }
 
-/* -------------------------
-   arXiv/GitHub/DOI badges
-   ------------------------- */
+.selected-pub__authors strong {
+  color: #2f3337;
+  font-weight: 700;
+}
+
+.selected-pub__venue {
+  margin-bottom: 0.62rem;
+
+  color: #4b4f54;
+  font-size: 0.92rem;
+  line-height: 1.45;
+}
 
 .selected-pub__links {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 4px;
-
-  min-height: 24px;
-  margin: 0;
-  padding: 0;
+  gap: 0.38rem;
 }
 
 .selected-pub__links a {
   display: inline-flex;
-  align-items: center;
-  margin: 0;
-  padding: 0;
-
-  line-height: 0;
+  border: 0;
   text-decoration: none;
 }
 
-.page__content .selected-pub__links img {
+.selected-pub__links img {
   display: block;
-
-  width: auto !important;
-  height: 20px !important;
-  max-width: none !important;
-  margin: 0 !important;
-  padding: 0 !important;
-
-  border: 0;
-  border-radius: 0;
+  width: auto;
+  height: 21px;
+  margin: 0;
 }
 
-.selected-pub__links a:hover {
-  opacity: 0.85;
-}
+/* Tablet and mobile */
 
-/* -------------------------
-   Mobile layout
-   ------------------------- */
-
-@media (max-width: 800px) {
+@media (max-width: 760px) {
   .selected-pub {
-    display: block;
-
-    width: 100%;
-    max-width: none;
-    margin: 0 0 28px;
-  }
-
-  .selected-pub__media,
-  .selected-pub__content {
-    width: 100%;
-    padding: 0;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    padding: 1.4rem 0;
   }
 
   .selected-pub__media {
-    width: 220px;
-    margin-bottom: 12px;
+    max-width: 520px;
   }
 
-  .selected-pub__badge {
-    width: 220px;
-  }
-
-  .selected-pub__figure,
-  .selected-pub__thumbnail {
-    width: 220px;
-    height: 74px;
-  }
-
-  .page__content .selected-pub__thumbnail img {
-    width: 220px !important;
-    height: 74px !important;
+  .selected-pub__title {
+    font-size: 1rem;
   }
 }
