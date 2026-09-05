@@ -203,7 +203,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
       </div>
 
       <div class="selected-pub__venue">
-        <em>Knowledge-Based Systems, 2025.</em>
+        <em>Knowledge-Based Systems (KBS), 2025.</em>
       </div>
 
       <div class="selected-pub__links">
