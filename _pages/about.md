@@ -21,6 +21,63 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
 <div class="selected-pubs">
 
   <!-- =====================================================
+       BAR
+       ===================================================== -->
+  <article class="selected-pub">
+
+    <div class="selected-pub__media">
+
+      <div class="selected-pub__badge">
+        NeurIPS 2026
+      </div>
+
+      <div class="selected-pub__figure">
+        <div class="selected-pub__thumbnail">
+          <img
+            src="{{ '/images/BAR.png' | relative_url }}"
+            alt="Overview of the BAR framework"
+          >
+        </div>
+      </div>
+
+    </div>
+
+    <div class="selected-pub__content">
+
+      <div class="selected-pub__title">
+        Cite What You Explore: Budget-Aware LLM Reasoning over Medical KGs with Verifiable Evidence
+      </div>
+
+      <div class="selected-pub__authors">
+        <strong>C. Chen</strong>,
+        D. Wang, M. Liu, and Z. Yao
+      </div>
+
+      <div class="selected-pub__venue">
+        <em>Advances in Neural Information Processing Systems, 2026.</em>
+      </div>
+
+      <div class="selected-pub__links">
+
+        <a
+          href="https://anonymous.4open.science/r/BAR/"
+          target="_blank"
+          rel="noopener"
+          aria-label="BAR code repository"
+        >
+          <img
+            src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=white"
+            alt="Code"
+          >
+        </a>
+
+      </div>
+
+    </div>
+
+  </article>
+
+  <!-- =====================================================
        ReTA
        ===================================================== -->
   <article class="selected-pub">
@@ -186,6 +243,7 @@ EMNLP 2026 Main Conference.
 
 ## News
 
+- **Sep 2026:** My paper has been accepted by NeurIPS 2026.
 - **Aug 2026:** My paper has been accepted by EMNLP 2026 Main Conference.
 - **Feb 2025:** My paper has been accepted for publication in Knowledge-Based Systems.
 - **Jun 2024:** I graduated with the Outstanding Undergraduate Thesis Award.
