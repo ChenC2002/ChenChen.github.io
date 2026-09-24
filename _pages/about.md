@@ -31,14 +31,20 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
         NeurIPS 2026
       </div>
 
-      <div class="selected-pub__figure">
+      <a
+        class="selected-pub__figure"
+        href="BAR_ARXIV_URL"
+        target="_blank"
+        rel="noopener"
+        aria-label="View BAR on arXiv"
+      >
         <div class="selected-pub__thumbnail">
           <img
             src="{{ '/images/BAR.png' | relative_url }}"
             alt="Overview of the BAR framework"
           >
         </div>
-      </div>
+      </a>
 
     </div>
 
@@ -57,6 +63,37 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
         <em>Advances in Neural Information Processing Systems, 2026.</em>
       </div>
 
+      <div class="selected-pub__links">
+
+        <a
+          href="BAR_ARXIV_URL"
+          target="_blank"
+          rel="noopener"
+          aria-label="BAR arXiv"
+        >
+          <img
+            src="https://img.shields.io/badge/arXiv-b31b1b.svg?logo=arXiv"
+            alt="arXiv"
+          >
+        </a>
+
+        <a
+          href="https://github.com/ChenC2002/BAR"
+          target="_blank"
+          rel="noopener"
+          aria-label="BAR GitHub repository"
+        >
+          <img
+            src="https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white"
+            alt="GitHub"
+          >
+        </a>
+
+      </div>
+
+    </div>
+
+  </article>
       <div class="selected-pub__links">
 
         <a
