@@ -60,7 +60,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
       </div>
 
       <div class="selected-pub__venue">
-        <em>Advances in Neural Information Processing Systems, 2026.</em>
+        <em>The Fortieth Annual Conference on Neural Information Processing Systems.</em>
       </div>
 
       <div class="selected-pub__links">
