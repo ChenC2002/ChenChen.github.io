@@ -60,7 +60,19 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
       <div class="selected-pub__links">
 
         <a
-          href="https://anonymous.4open.science/r/BAR/"
+          href="https://arxiv.org/abs/2609.01839"
+          target="_blank"
+          rel="noopener"
+          aria-label="ReTA arXiv"
+        >
+          <img
+            src="https://img.shields.io/badge/arXiv-b31b1b.svg?logo=arXiv"
+            alt="arXiv"
+          >
+        </a>
+        
+        <a
+          href="https://github.com/ChenC2002/BAR"
           target="_blank"
           rel="noopener"
           aria-label="BAR code repository"
