@@ -93,6 +93,8 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
 
     </div>
 
+  </article>
+
   <!-- =====================================================
        ReTA
        ===================================================== -->
