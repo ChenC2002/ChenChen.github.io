@@ -185,14 +185,14 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
 
       <a
         class="selected-pub__figure"
-        href="{{ '/images/HSNPL.jp2' | relative_url }}"
+        href="{{ '/images/HSNPL.png' | relative_url }}"
         target="_blank"
         rel="noopener"
         aria-label="Open full-size HSNPL framework image"
       >
         <div class="selected-pub__thumbnail">
           <img
-            src="{{ '/images/HSNPL.jp2' | relative_url }}"
+            src="{{ '/images/HSNPL.png' | relative_url }}"
             alt="Overview of the HSNPL framework"
             loading="lazy"
           >
