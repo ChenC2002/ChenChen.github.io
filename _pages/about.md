@@ -33,7 +33,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
 
       <a
         class="selected-pub__figure"
-        href="BAR_ARXIV_URL"
+        href="/images/BAR.png"
         target="_blank"
         rel="noopener"
         aria-label="View BAR on arXiv"
