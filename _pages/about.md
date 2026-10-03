@@ -65,6 +65,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
 
       <div class="selected-pub__links">
 
+<!--
         <a
           href="BAR_ARXIV_URL"
           target="_blank"
@@ -76,7 +77,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
             alt="arXiv"
           >
         </a>
-
+-->
         <a
           href="https://github.com/ChenC2002/BAR"
           target="_blank"
@@ -248,15 +249,6 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
   </article>
 
 </div>
-
-
-<!--
-Temporarily hidden:
-
-A. H. Moghaddam, M. N. Kerdabadi, C. Chen, D. Wang, and Z. Yao.
-"RASPER: Reward-Aligned Summarization of Clinical Notes for EHR Outcome Prediction."
-EMNLP 2026 Main Conference.
--->
 
 
 ## News
