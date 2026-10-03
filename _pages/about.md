@@ -109,14 +109,14 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
 
       <a
         class="selected-pub__figure"
-        href="https://arxiv.org/abs/2609.01839"
+        href="{{ '/images/ReTA Poster.png' | relative_url }}"
         target="_blank"
         rel="noopener"
         aria-label="View ReTA on arXiv"
       >
         <div class="selected-pub__thumbnail">
           <img
-            src="{{ '/images/ReTA.png' | relative_url }}"
+            src="{{ '/images/ReTA Poster.png' | relative_url }}"
             alt="Overview of the ReTA framework"
           >
         </div>
