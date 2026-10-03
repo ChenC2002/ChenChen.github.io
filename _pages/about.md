@@ -185,10 +185,10 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
 
       <a
         class="selected-pub__figure"
-        href="https://arxiv.org/abs/2407.09019"
+        href="{{ '/images/HSNPL.png' | relative_url }}"
         target="_blank"
         rel="noopener"
-        aria-label="View HSNPL on arXiv"
+        aria-label="Open full-size HSNPL framework image"
       >
         <div class="selected-pub__thumbnail">
           <img
