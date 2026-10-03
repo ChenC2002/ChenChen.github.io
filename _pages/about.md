@@ -33,10 +33,10 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
 
       <a
         class="selected-pub__figure"
-        href="https://github.com/ChenC2002/ChenChen.github.io/blob/master/images/BAR.png"
+        href="{{ '/images/BAR.png' | relative_url }}"
         target="_blank"
         rel="noopener"
-        aria-label="View BAR on arXiv"
+        aria-label="Open full-size BAR framework image"
       >
         <div class="selected-pub__thumbnail">
           <img
