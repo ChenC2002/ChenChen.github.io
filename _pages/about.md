@@ -33,14 +33,14 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
 
       <a
         class="selected-pub__figure"
-        href="{ '/images/BAR.png' | relative_url }"
+        href="https://github.com/ChenC2002/ChenChen.github.io/blob/master/images/BAR.png"
         target="_blank"
         rel="noopener"
         aria-label="View BAR on arXiv"
       >
         <div class="selected-pub__thumbnail">
           <img
-            src="{{ '/images/BAR.png' | relative_url }}"
+            src="https://github.com/ChenC2002/ChenChen.github.io/blob/master/images/BAR.png"
             alt="Overview of the BAR framework"
           >
         </div>
