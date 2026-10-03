@@ -40,7 +40,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
       >
         <div class="selected-pub__thumbnail">
           <img
-            src="https://github.com/ChenC2002/ChenChen.github.io/blob/master/images/BAR.png"
+            src="{{ '/images/BAR.png' | relative_url }}"
             alt="Overview of the BAR framework"
           >
         </div>
