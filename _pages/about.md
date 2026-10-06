@@ -47,10 +47,6 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
         Where Credit Lands: Verifiable Step Credit for Bounded-Memory EHR Agents
       </div>
 
-      <div class="selected-pub__note">
-        Verifier-guided post-training for retrieval, memory, and stopping.
-      </div>
-
       <div class="selected-pub__venue">
         <em>Submitted to ICLR 2027.</em>
       </div>
@@ -127,7 +123,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
       </div>
 
       <div class="selected-pub__venue">
-        <em>Neural Information Processing Systems (NeurIPS), 2026.</em>
+        <em>NeurIPS 2026 · Poster.</em>
       </div>
 
       <div class="selected-pub__links">
