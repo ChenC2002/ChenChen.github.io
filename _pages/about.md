@@ -18,7 +18,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
 
 ## Selected Research
 
-Selected first-author papers. See [Google Scholar](https://scholar.google.com/citations?user=3PExFM8AAAAJ) for the full publication list.
+<p class="selected-pubs__intro">Selected first-author papers. See <a href="https://scholar.google.com/citations?user=3PExFM8AAAAJ">Google Scholar</a> for the full publication list.</p>
 
 <div class="selected-pubs">
 
@@ -29,12 +29,26 @@ Selected first-author papers. See [Google Scholar](https://scholar.google.com/ci
       <div class="selected-pub__badge">
         Under Review
       </div>
+      <a class="selected-pub__figure"
+         href="{{ '/images/VAPA.png' | relative_url }}"
+         target="_blank" rel="noopener"
+         aria-label="Open full-size VAPA framework image">
+        <div class="selected-pub__thumbnail">
+          <img src="{{ '/images/VAPA.png' | relative_url }}"
+               alt="VAPA: verifier rewards, same-state replay, and two-level credit assignment"
+               loading="lazy" decoding="async">
+        </div>
+      </a>
     </div>
 
     <div class="selected-pub__content">
 
       <div class="selected-pub__title">
         Where Credit Lands: Verifiable Step Credit for Bounded-Memory EHR Agents
+      </div>
+
+      <div class="selected-pub__note">
+        Verifier-guided post-training for retrieval, memory, and stopping.
       </div>
 
       <div class="selected-pub__venue">
@@ -113,24 +127,15 @@ Selected first-author papers. See [Google Scholar](https://scholar.google.com/ci
       </div>
 
       <div class="selected-pub__venue">
-        <em>The Fortieth Annual Conference on Neural Information Processing Systems.</em>
+        <em>Neural Information Processing Systems (NeurIPS), 2026.</em>
       </div>
 
       <div class="selected-pub__links">
 
-<!--
-        <a
-          href="BAR_ARXIV_URL"
-          target="_blank"
-          rel="noopener"
-          aria-label="BAR arXiv"
-        >
-          <img
-            src="https://img.shields.io/badge/arXiv-b31b1b.svg?logo=arXiv"
-            alt="arXiv"
-          >
+        <a href="https://drive.google.com/file/d/1Zdz0E5MgfJeQ6dqonnQETAl-5FZhgAXG/view?usp=drivesdk"
+           target="_blank" rel="noopener" aria-label="Read the BAR paper">
+          <img src="https://img.shields.io/badge/Paper-PDF-b31b1b" alt="Paper">
         </a>
--->
         <a
           href="https://github.com/ChenC2002/BAR"
           target="_blank"
@@ -165,7 +170,7 @@ Selected first-author papers. See [Google Scholar](https://scholar.google.com/ci
         href="{{ '/images/ReTA Poster.png' | relative_url }}"
         target="_blank"
         rel="noopener"
-        aria-label="View ReTA on arXiv"
+        aria-label="Open full-size ReTA framework image"
       >
         <div class="selected-pub__thumbnail">
           <img
@@ -189,7 +194,7 @@ Selected first-author papers. See [Google Scholar](https://scholar.google.com/ci
       </div>
 
       <div class="selected-pub__venue">
-        <em>Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing.</em>
+        <em>EMNLP 2026 · Main Conference.</em>
       </div>
 
       <div class="selected-pub__links">
@@ -310,3 +315,4 @@ Selected first-author papers. See [Google Scholar](https://scholar.google.com/ci
 - **Aug 2026:** My paper has been accepted by EMNLP 2026 Main Conference.
 - **Feb 2025:** My paper has been accepted for publication in Knowledge-Based Systems.
 - **Jun 2024:** I graduated with the Outstanding Undergraduate Thesis Award.
+
