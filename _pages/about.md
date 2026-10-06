@@ -253,7 +253,7 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
 
 ## News
 
-- **Sep 2026:** My paper has been accepted by NeurIPS 2026.
+- **Sep 2026:** My paper has been accepted by NeurIPS 2026, see you in Sydney!
 - **Aug 2026:** My paper has been accepted by EMNLP 2026 Main Conference.
 - **Feb 2025:** My paper has been accepted for publication in Knowledge-Based Systems.
 - **Jun 2024:** I graduated with the Outstanding Undergraduate Thesis Award.
