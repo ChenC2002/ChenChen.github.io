@@ -127,11 +127,19 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
       </div>
 
       <div class="selected-pub__links">
-
-        <a href="https://drive.google.com/file/d/1Zdz0E5MgfJeQ6dqonnQETAl-5FZhgAXG/view?usp=drivesdk"
-           target="_blank" rel="noopener" aria-label="Read the BAR paper">
-          <img src="https://img.shields.io/badge/Paper-PDF-b31b1b" alt="Paper">
+      
+        <a
+          href="https://arxiv.org/abs/2610.07739"
+          target="_blank"
+          rel="noopener"
+          aria-label="BAR arXiv"
+        >
+          <img
+            src="https://img.shields.io/badge/arXiv-b31b1b.svg?logo=arXiv"
+            alt="arXiv"
+          >
         </a>
+
         <a
           href="https://github.com/ChenC2002/BAR"
           target="_blank"
