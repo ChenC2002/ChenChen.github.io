@@ -53,11 +53,11 @@ My research focuses on Agentic RL and Verifiable reasoning, aiming to build reli
           href="https://openreview.net/forum?id=Qm9lrLBdxp"
           target="_blank"
           rel="noopener"
-          aria-label="View the VAPA code repository"
+          aria-label="View the VAPA paper on OpenReview"
         >
           <img
-            src="https://img.shields.io/badge/Code-181717"
-            alt="Link"
+            src="https://img.shields.io/badge/OpenReview-8C1B13"
+            alt="OpenReview"
           >
         </a>
 
