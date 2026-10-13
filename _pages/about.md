@@ -47,33 +47,18 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
         Where Credit Lands: Verifiable Step Credit for Bounded-Memory EHR Agents
       </div>
 
-      <div class="selected-pub__venue">
-        <em>Submitted to ICLR 2027.</em>
-      </div>
-
       <div class="selected-pub__links">
 
-        <a
-          href="https://drive.google.com/file/d/1spXfVC_miS_9d88gxZasExLFpxCqvY9a/view?usp=drivesdk"
-          target="_blank"
-          rel="noopener"
-          aria-label="Read the VAPA paper"
-        >
-          <img
-            src="https://img.shields.io/badge/Paper-PDF-b31b1b"
-            alt="Paper"
-          >
-        </a>
 
         <a
-          href="https://anonymous.4open.science/r/VAPA"
+          href="https://openreview.net/forum?id=Qm9lrLBdxp"
           target="_blank"
           rel="noopener"
           aria-label="View the VAPA code repository"
         >
           <img
             src="https://img.shields.io/badge/Code-181717"
-            alt="Code"
+            alt="Link"
           >
         </a>
 
