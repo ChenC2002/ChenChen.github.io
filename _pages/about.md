@@ -9,9 +9,8 @@ redirect_from:
 
 I am a second-year Ph.D. student in Computer Science at the University of Kansas, advised by [Dr. Zijun Yao](https://ittc.ku.edu/~zyao/).
 
-My research focuses on Agent Engineering, LLM Post-Training, Reinforcement Learning, and Graph Learning, to build reliable AI systems for healthcare.
+My research focuses on Agentic RL and Verifiable reasoning, aiming to build reliable agent systems for healthcare.
 
-Previously, I received my B.E. in Artificial Intelligence from Guangdong University of Technology in 2024, where I worked on interpretable graph learning for social media analysis with [Dr. Fenghuan Li](https://dblp.org/pid/07/10130.html).
 
 [View my CV.](https://drive.google.com/file/d/15Tjkj__hEPyMDef0W3BPiehrk6DqvqxN/view?usp=sharing)
 
@@ -205,83 +204,6 @@ Previously, I received my B.E. in Artificial Intelligence from Guangdong Univers
           target="_blank"
           rel="noopener"
           aria-label="ReTA GitHub repository"
-        >
-          <img
-            src="https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white"
-            alt="GitHub"
-          >
-        </a>
-
-      </div>
-
-    </div>
-
-  </article>
-
-
- <!-- =====================================================
-       HSNPL
-       ===================================================== -->
-  <article class="selected-pub">
-
-    <div class="selected-pub__media">
-
-      <div class="selected-pub__badge">
-        KBS 2025
-      </div>
-
-      <a
-        class="selected-pub__figure"
-        href="{{ '/images/HSNPL.png' | relative_url }}"
-        target="_blank"
-        rel="noopener"
-        aria-label="Open full-size HSNPL framework image"
-      >
-        <div class="selected-pub__thumbnail">
-          <img
-            src="{{ '/images/HSNPL.png' | relative_url }}"
-            alt="Overview of the HSNPL framework"
-            loading="lazy"
-          >
-        </div>
-      </a>
-
-    </div>
-
-    <div class="selected-pub__content">
-
-      <div class="selected-pub__title">
-        Heterogeneous Subgraph Network with Prompt Learning for Interpretable Depression Detection on Social Media
-      </div>
-
-      <div class="selected-pub__authors">
-        <strong>C. Chen</strong>,
-        F. Li, H. Chen, and Y. Lin
-      </div>
-
-      <div class="selected-pub__venue">
-        <em>Knowledge-Based Systems, 2025.</em>
-      </div>
-
-      <div class="selected-pub__links">
-
-        <a
-          href="https://arxiv.org/abs/2407.09019"
-          target="_blank"
-          rel="noopener"
-          aria-label="HSNPL arXiv"
-        >
-          <img
-            src="https://img.shields.io/badge/arXiv-b31b1b.svg?logo=arXiv"
-            alt="arXiv"
-          >
-        </a>
-
-        <a
-          href="https://github.com/ChenC2002/HSNPL-master"
-          target="_blank"
-          rel="noopener"
-          aria-label="HSNPL GitHub repository"
         >
           <img
             src="https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white"
