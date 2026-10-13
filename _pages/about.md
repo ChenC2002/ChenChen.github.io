@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am a second-year Ph.D. student in Computer Science at the University of Kansas, advised by [Dr. Zijun Yao](https://ittc.ku.edu/~zyao/).
-My research focuses on Agentic RL and Verifiable reasoning, aiming to build reliable agent systems for healthcare.
+My research focuses on agentic RL and verifiable reasoning, aiming to build reliable agent systems for healthcare.
 
 [View my CV.](https://drive.google.com/file/d/15Tjkj__hEPyMDef0W3BPiehrk6DqvqxN/view?usp=sharing)
 
