@@ -19,6 +19,7 @@ My research focuses on agentic RL and verifiable reasoning, aiming to build reli
 
 <div class="selected-pubs">
 
+<!--
 <!-- VAPA -->
   <article class="selected-pub">
 
@@ -62,6 +63,8 @@ My research focuses on agentic RL and verifiable reasoning, aiming to build reli
       </div>
 
     </div>
+
+-->
 
   </article>
 
@@ -121,7 +124,7 @@ My research focuses on agentic RL and verifiable reasoning, aiming to build reli
             alt="arXiv"
           >
         </a>
-
+<!--
         <a
           href="https://github.com/ChenC2002/BAR"
           target="_blank"
@@ -133,7 +136,7 @@ My research focuses on agentic RL and verifiable reasoning, aiming to build reli
             alt="GitHub"
           >
         </a>
-
+-->
       </div>
 
     </div>
@@ -196,7 +199,7 @@ My research focuses on agentic RL and verifiable reasoning, aiming to build reli
             alt="arXiv"
           >
         </a>
-
+<!--
         <a
           href="https://github.com/ChenC2002/ReTA"
           target="_blank"
@@ -208,7 +211,7 @@ My research focuses on agentic RL and verifiable reasoning, aiming to build reli
             alt="GitHub"
           >
         </a>
-
+-->
       </div>
 
     </div>
