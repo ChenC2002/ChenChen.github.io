@@ -19,8 +19,8 @@ My research focuses on agentic RL and verifiable reasoning, aiming to build reli
 
 <div class="selected-pubs">
 
-<!--
 <!-- VAPA -->
+<!--
   <article class="selected-pub">
 
     <div class="selected-pub__media">
@@ -64,9 +64,8 @@ My research focuses on agentic RL and verifiable reasoning, aiming to build reli
 
     </div>
 
--->
-
   </article>
+-->
 
   <!-- =====================================================
        BAR
