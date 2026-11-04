@@ -123,7 +123,6 @@ My research focuses on agentic RL and verifiable reasoning, aiming to build reli
             alt="arXiv"
           >
         </a>
-<!--
         <a
           href="https://github.com/ChenC2002/BAR"
           target="_blank"
@@ -132,10 +131,21 @@ My research focuses on agentic RL and verifiable reasoning, aiming to build reli
         >
           <img
             src="https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white"
-            alt="GitHub"
+            alt="Code"
           >
         </a>
--->
+
+        <a
+          href="https://chenc2002.github.io/BAR/demo/"
+          target="_blank"
+          rel="noopener"
+          aria-label="BAR interactive demo"
+        >
+          <img
+            src="https://img.shields.io/badge/Demo-007EC6"
+            alt="Demo"
+          >
+        </a>
       </div>
 
     </div>
@@ -198,7 +208,6 @@ My research focuses on agentic RL and verifiable reasoning, aiming to build reli
             alt="arXiv"
           >
         </a>
-<!--
         <a
           href="https://github.com/ChenC2002/ReTA"
           target="_blank"
@@ -207,10 +216,21 @@ My research focuses on agentic RL and verifiable reasoning, aiming to build reli
         >
           <img
             src="https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white"
-            alt="GitHub"
+            alt="Code"
           >
         </a>
--->
+
+        <a
+          href="https://chenc2002.github.io/ReTA/demo/"
+          target="_blank"
+          rel="noopener"
+          aria-label="ReTA interactive demo"
+        >
+          <img
+            src="https://img.shields.io/badge/Demo-007EC6"
+            alt="Demo"
+          >
+        </a>
       </div>
 
     </div>
