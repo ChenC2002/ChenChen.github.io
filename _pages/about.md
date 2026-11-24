@@ -155,7 +155,7 @@ My research focuses on agentic RL and verifiable reasoning, aiming to build reli
   <!-- =====================================================
        ReTA
        ===================================================== -->
-  <article class="selected-pub">
+  <article class="selected-pub selected-pub--reta">
 
     <div class="selected-pub__media">
 
