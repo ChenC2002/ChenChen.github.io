@@ -87,7 +87,7 @@ My research focuses on agentic RL and verifiable reasoning, aiming to build reli
       >
         <div class="selected-pub__thumbnail">
           <img
-            src="{{ '/images/BAR.png' | relative_url }}"
+            src="{{ '/images/NeurIPS Poster.png' | relative_url }}"
             alt="Overview of the BAR framework"
           >
         </div>
