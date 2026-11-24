@@ -218,3 +218,17 @@
   .selected-pub__title { font-size: 1rem; }
 }
 
+/* ReTA thumbnail */
+.selected-pub--reta .selected-pub__thumbnail {
+  overflow: hidden;
+}
+
+.selected-pub--reta .selected-pub__thumbnail img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1.42 / 1;
+  max-height: none;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 2px;
+}
